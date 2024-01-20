@@ -1,0 +1,3478 @@
+{
+	"simple present": 
+	[
+        {
+            "sentence": "I ——————— at a bank.",
+            "options": [" work", " works", " working"],
+            "answer": " work"
+        },
+        {
+            "sentence": "She ——————– with her parents.",
+            "options": [" live", " lives", " living"],
+            "answer": " lives"
+        },
+        {
+            "sentence": "Cows ———————– on grass.",
+            "options": [" feed", " feeds", " feeding"],
+            "answer": " feed"
+        },
+        {
+            "sentence": "He ———————- a handsome salary.",
+            "options": [" earn", " earns", " earning"],
+            "answer": " earns"
+        },
+        {
+            "sentence": "Janet ———————- to be a singer.",
+            "options": [" want", " wants", " wanting"],
+            "answer": " wants"
+        },
+        {
+            "sentence": "Emily ———————– delicious cookies.",
+            "options": [" make", " makes", " making"],
+            "answer": " makes"
+        },
+        {
+            "sentence": "Arti and her husband ——————- in Singapore.",
+            "options": [" live", " lives", " living"],
+            "answer": " live"
+        },
+        {
+            "sentence": "Rohan and Sania ———————- to play card games.",
+            "options": [" like", " likes", " liking"],
+            "answer": " like"
+        },
+        {
+            "sentence": "Sophia ————————– English very well.",
+            "options": [" speak", " speaks", " speaking"],
+            "answer": " speaks"
+        },
+        {
+            "sentence": "Martin ———————– for a walk in the morning.",
+            "options": [" go", " goes", " going"],
+            "answer": " goes"
+        },
+        {
+            "sentence": "My grandfather ——————– his pet dog.",
+            "options": [" adore", " adores", " adoring"],
+            "answer": " adores"
+        },
+        {
+            "sentence": "Plants ———————– water and sunlight for making their foo",
+            "options": [" need", " needs", " needing"],
+            "answer": " need"
+        },
+        {
+	      "sentence": "The sun ———————– in the sky.",
+	      "options": [" shines", " shine", " shining"],
+	      "answer": " shines"
+	    },
+	    {
+	      "sentence": "The birds ———————– in the trees.",
+	      "options": [" sing", " sings", " singing"],
+	      "answer": " sing"
+	    },
+	    {
+	      "sentence": "The wind ———————– through the trees.",
+	      "options": [" blows", " blowses", " blowing"],
+	      "answer": " blows"
+	    },
+	    {
+	      "sentence": "The clouds ———————– in the sky.",
+	      "options": [" float", " floats", " floating"],
+	      "answer": " float"
+	    },
+	    {
+	      "sentence": "The leaves ———————– off the trees in the fall.",
+	      "options": [" fall", " falls", " falling"],
+	      "answer": " fall"
+	    },
+	    {
+	      "sentence": "The waves ———————– on the beach.",
+	      "options": [" crash", " crashes", " crashing"],
+	      "answer": " crash"
+	    },
+	    {
+	      "sentence": "The water ———————– in the ocean.",
+	      "options": [" flows", " flowses", " flowing"],
+	      "answer": " flows"
+	    },
+	    {
+	      "sentence": "The fish ———————– in the water.",
+	      "options": [" swim", " swims", " swimming"],
+	      "answer": " swim"
+	    },
+	    {
+	      "sentence": "The sun ———————– in the morning and sets in the evening.",
+	      "options": [" rises", " riseses", " rising"],
+	      "answer": " rises"
+	    },
+	    {
+	      "sentence": "The moon ———————– at night.",
+	      "options": [" shines", " shine", " shining"],
+	      "answer": " shines"
+	    },
+	    {
+	      "sentence": "The stars ———————– in the sky at night.",
+	      "options": [" twinkle", " twinkles", " twinkling"],
+	      "answer": " twinkle"
+	    },
+	    {
+	      "sentence": "The clouds ———————– in the sky on a rainy day.",
+	      "options": [" cover", " covers", " covering"],
+	      "answer": " cover"
+	    },
+	    {
+	      "sentence": "The rain ———————– down from the sky.",
+	      "options": [" falls", " fallses", " falling"],
+	      "answer": " falls"
+	    },
+	    {
+	      "sentence": "The wind ———————– through the trees on a windy day.",
+	      "options": [" blows", " blowses", " blowing"],
+	      "answer": " blows"
+	    },
+	    {
+	      "sentence": "The snow ———————– on the ground in the winter.",
+	      "options": [" falls", " fallses", " falling"],
+	      "answer": " falls"
+	    },
+	    {
+	      "sentence": "The ice ———————– on the ground in the winter.",
+	      "options": [" forms", " formses", " forming"],
+	      "answer": " forms"
+	    },
+	    {
+	      "sentence": "The clock ———————– on the wall.",
+	      "options": [" ticks", " tick", " ticking"],
+	      "answer": " ticks"
+	    },
+	    {
+	      "sentence": "The car ———————– down the street.",
+	      "options": [" drives", " drive", " driving"],
+	      "answer": " drives"
+	    },
+	    {
+	      "sentence": "The train ———————– into the station.",
+	      "options": [" arrives", " arrive", " arriving"],
+	      "answer": " arrives"
+	    },
+	    {
+	      "sentence": "The airplane ———————– into the sky.",
+	      "options": [" takes off", " takes offs", " taking off"],
+	      "answer": " takes off"
+	    },
+	    {
+	      "sentence": "The boat ———————– across the lake.",
+	      "options": [" sails", " sail", " sailing"],
+	      "answer": " sails"
+	    },
+	    {
+	      "sentence": "The bus ———————– down the roa",
+	      "options": [" passes", " passeses", " passing"],
+	      "answer": " passes"
+	    },
+	    {
+	      "sentence": "The train ———————– into the tunnel.",
+	      "options": [" disappears", " disappearses", " disappearing"],
+	      "answer": " disappears"
+	    },
+	    {
+	      "sentence": "The car ———————– around the corner.",
+	      "options": [" turns", " turnses", " turning"],
+	      "answer": " turns"
+	    },
+	    {
+	      "sentence": "The clock ———————– to 12 o'clock.",
+	      "options": [" strikes", " strikeses", " striking"],
+	      "answer": " strikes"
+	    },
+	    {
+	      "sentence": "The alarm clock ———————– at 7:00 am.",
+	      "options": [" goes off", " goes offes", " going off"],
+	      "answer": " goes off"
+	    },
+	    {
+	      "sentence": "The bell ———————– at the end of the class.",
+	      "options": [" rings", " ringses", " ringing"],
+	      "answer": " rings"
+	    },
+	    {
+	      "sentence": "The door ———————– when I knocke",
+	      "options": [" opens", " openses", " opening"],
+	      "answer": " opens"
+	    },
+	    {
+	      "sentence": "The lights ———————– when I turned on the switch.",
+	      "options": [" come on", " come ons", " coming on"],
+	      "answer": " come on"
+	    },
+	    {
+	      "sentence": "The TV ———————– when I turned on the remote.",
+	      "options": [" turns on", " turns ons", " turning on"],
+	      "answer": " turns on"
+	    },
+	    {
+	      "sentence": "The alarm clock ———————– when I woke up.",
+	      "options": [" goes off", " goes offes", " going off"],
+	      "answer": " goes off"
+	    },
+	    {
+	      "sentence": "The phone ———————– when I was in the shower.",
+	      "options": [" rings", " ringses", " ringing"],
+	      "answer": " rings"
+	    },
+	    {
+	        "sentence": "I _____________ English lessons on Tuesday and Friday every week.",
+	        "options": [" have", " is having", " has", " had"],
+	        "answer": " have"
+	    },
+	    {
+	        "sentence": "Alex usually ____________ his homework at 8 p.m.",
+	        "options": [" finish", " finishing", " finished", " finishes"],
+	        "answer": " finishes"
+	    },
+	    {
+	        "sentence": "We _________ to the judo club twice a month.",
+	        "options": [" go", " have", " make", " take"],
+	        "answer": " go"
+	    },
+	    {
+	        "sentence": "– What do you do in your free time? – I always ________ books in my free time.",
+	        "options": [" is reading", " to read", " reads", " read"],
+	        "answer": " read"
+	    },
+	    {
+	        "sentence": "We _____ new subjects for this school year.",
+	        "options": [" have", " has", " having", " had"],
+	        "answer": " have"
+	    },
+	    {
+	        "sentence": "My mom ______ coffee for breakfast every morning.",
+	        "options": [" drinks", " is drinking", " drinks", " drank"],
+	        "answer": " drinks"
+	    },
+	    {
+	        "sentence": "My dog ______ to the park every day.",
+	        "options": [" goes", " is going", " go", " went"],
+	        "answer": " goes"
+	    },
+	    {
+	        "sentence": "The sun ______ in the east and sets in the west.",
+	        "options": [" rises", " is rising", " raise", " raised"],
+	        "answer": " rises"
+	    },
+	    {
+	        "sentence": "Birds ______ in the trees.",
+	        "options": [" sing", " are singing", " sung", " singed"],
+	        "answer": " sing"
+	    },
+	    {
+	        "sentence": "Water ______ at 100 degrees Celsius.",
+	        "options": [" boils", " is boiling", " boiled", " boiling"],
+	        "answer": " boils"
+	    },
+	    {
+	        "sentence": "The earth ______ around the sun.",
+	        "options": [" revolves", " is revolving", " revolved", " revolving"],
+	        "answer": " revolves"
+	    },
+	    {
+	        "sentence": "I ______ to work by bus every day.",
+	        "options": [" commute", " is commuting", " commuted", " commuting"],
+	        "answer": " commute"
+	    },
+	    {
+	        "sentence": "My parents ______ to the gym three times a week.",
+	        "options": [" go", " are going", " went", " gone"],
+	        "answer": " go"
+	    },
+	    {
+	        "sentence": "I ______ English every day.",
+	        "options": [" study", " am studying", " studies", " studied"],
+	        "answer": " study"
+	    },
+	    {
+	        "sentence": "My brother ______ a book right now.",
+	        "options": [" reads", " is reading", " read", " has read"],
+	        "answer": " is reading"
+	    },
+	    {
+	        "sentence": "My sister ______ to the library every week.",
+	        "options": [" goes", " is going", " go", " went"],
+	        "answer": " goes"
+	    },
+	    {
+	        "sentence": "The train ______ at 8:00 m. every day.",
+	        "options": [" leaves", " is leaving", " leaves", " left"],
+	        "answer": " leaves"
+	    },
+	    {
+	        "sentence": "The sun ______ very bright today.",
+	        "options": [" shines", " is shining", " shines", " shone"],
+	        "answer": " shines"
+	    },
+	    {
+	        "sentence": "The birds ______ in the sky.",
+	        "options": [" sing", " are singing", " sung", " singed"],
+	        "answer": " sing"
+	    },
+	    {
+	        "sentence": "The leaves ______ off the trees in the fall.",
+	        "options": [" fall", " are falling", " fall", " fell"],
+	        "answer": " fall"
+	    },
+	    {
+	        "sentence": "The waves ______ on the beach.",
+	        "options": [" crash", " are crashing", " crash", " crashed"],
+	        "answer": " crash"
+	    },
+	    {
+	        "sentence": "The water ______ in the ocean.",
+	        "options": [" flows", " is flowing", " flows", " flowed"],
+	        "answer": " flows"
+	    },
+	    {
+	        "sentence": "The fish ______ in the water.",
+	        "options": [" swim", " are swimming", " swim", " swam"],
+	        "answer": " swim"
+	    },
+	    {
+	        "sentence": "The sun ______ in the morning and sets in the evening.",
+	        "options": [" rises", " is rising", " rises", " rose"],
+	        "answer": " rises"
+	    },
+	    {
+	        "sentence": "The moon ______ at night.",
+	        "options": [" shines", " is shining", " shines", " shone"],
+	        "answer": " shines"
+	    },
+	    {
+	        "sentence": "The stars ______ in the sky at night.",
+	        "options": [" twinkle", " are twinkling", " twinkle", " twinkled"],
+	        "answer": " twinkle"
+	    },
+	    {
+	        "sentence": "The clouds ______ in the sky on a rainy day.",
+	        "options": [" cover", " are covering", " cover", " covered"],
+	        "answer": " cover"
+	    },
+	    {
+	        "sentence": "The rain ______ down from the sky.",
+	        "options": [" falls", " is falling", " falls", " fell"],
+	        "answer": " falls"
+	    },
+	    {
+	        "sentence": "The wind ______ through the trees on a windy day.",
+	        "options": [" blows", " is blowing", " blows", " blew"],
+	        "answer": " blows"
+	    },
+	    {
+	        "sentence": "The snow ______ on the ground in the winter.",
+	        "options": [" falls", " is falling", " falls", " fell"],
+	        "answer": " falls"
+	    },
+	    {
+	        "sentence": "The ice ______ on the ground in the winter.",
+	        "options": [" forms", " is forming", " forms", " formed"],
+	        "answer": " forms"
+	    },
+	    {
+	        "sentence": "The clock ______ on the wall.",
+	        "options": [" ticks", " tick", " ticking"],
+	        "answer": " ticks"
+	    },
+	    {
+	        "sentence": "The car ______ down the street.",
+	        "options": [" drives", " drive", " driving"],
+	        "answer": " drives"
+	    },
+	    {
+	        "sentence": "The train ______ into the station.",
+	        "options": [" arrives", " arrive", " arriving"],
+	        "answer": " arrives"
+	    },
+	    {
+	        "sentence": "The airplane ______ into the sky.",
+	        "options": [" takes off", " takes offs", " taking off"],
+	        "answer": " takes off"
+	    },
+	    {
+	        "sentence": "The boat ______ across the lake.",
+	        "options": [" sails", " sail", " sailing"],
+	        "answer": " sails"
+	    },
+	    {
+	        "sentence": "The bus ______ down the roa",
+	        "options": [" passes", " passeses", " passing"],
+	        "answer": " passes"
+	    },
+	    {
+	        "sentence": "The train ______ into the tunnel.",
+	        "options": [" disappears", " disappearses", " disappearing"],
+	        "answer": " disappears"
+	    },
+	    {
+	        "sentence": "The car ______ around the corner.",
+	        "options": [" turns", " turnses", " turning"],
+	        "answer": " turns"
+	    },
+	    {
+	        "sentence": "The clock ______ to 12 o'clock.",
+	        "options": [" strikes", " strikeses", " striking"],
+	        "answer": " strikes"
+	    },
+	    {
+	        "sentence": "The alarm clock ______ at 7:00 am.",
+	        "options": [" goes off", " goes offes", " going off"],
+	        "answer": " goes off"
+	    },
+	    {
+	        "sentence": "The bell ______ at the end of the class.",
+	        "options": [" rings", " ringses", " ringing"],
+	        "answer": " rings"
+	    },
+	    {
+	        "sentence": "The door ______ when I knocke",
+	        "options": [" opens", " openses", " opening"],
+	        "answer": " opens"
+	    },
+	    {
+	        "sentence": "The lights ______ when I turned on the switch.",
+	        "options": [" come on", " come ons", " coming on"],
+	        "answer": " come on"
+	    },
+	    {
+	        "sentence": "The TV ______ when I turned on the remote.",
+	        "options": [" turns on", " turns ons", " turning on"],
+	        "answer": " turns on"
+	    },
+	    {
+	        "sentence": "The alarm clock ______ when I woke up.",
+	        "options": [" goes off", " goes offes", " going off"],
+	        "answer": " goes off"
+	    },
+	    {
+	        "sentence": "The phone ______ when I was in the shower.",
+	        "options": [" rings", " ringses", " ringing"],
+	        "answer": " rings"
+	    }
+	],
+	"present continuous": 
+	[
+        {
+            "sentence": "Where …………his wife (be)?",
+            "options": [" am", " is", " are", " be"],
+            "answer": " is"
+        },
+        {
+            "sentence": "Jack (wear) ………………..suit today.",
+            "options": [" is wearing", " are wearing", " am wearing", " wears"],
+            "answer": " is wearing"
+        },
+        {
+            "sentence": "The weather (get) ………………..warm this season.",
+            "options": [" gets", " are getting", " is getting", " are gets"],
+            "answer": " is getting"
+        },
+        {
+            "sentence": "My kids (be)…………. downstairs now. They (play) …………..chess.",
+            "options": [" am/ am playing", " is/is playing", " are/are playing", " be/ being"],
+            "answer": " are/are playing"
+        },
+        {
+            "sentence": "Look! The train (come)…………………",
+            "options": [" are coming", " is coming", " are coming", " is coming"],
+            "answer": " is coming"
+        },
+        {
+            "sentence": "Alex always (borrow) ………………..me cash and never (give)……………….. back.",
+            "options": [" is borrowing/ giving", " are borrowing/ giving", " borrows/ giving", " borrow/ giving"],
+            "answer": " borrows/ giving"
+        },
+        {
+            "sentence": "While I (do)……………….. my homework, my sister (read) ……………….. newspapers.",
+            "options": [" am doing/ is reading", " are doing/ is reading", " is doing/ are reading", " am doing/ are reading"],
+            "answer": " am doing/ are reading"
+        },
+        {
+            "sentence": "Why ……..at me like that? What happened?",
+            "options": [" do you look", " have you looked", " did you look", " are you looking"],
+            "answer": " are you looking"
+        },
+        {
+            "sentence": "I…….in the bathroom right now.",
+            "options": [" am being", " was being", " have been being", " am"],
+            "answer": " am being"
+        },
+        {
+            "sentence": "It……..late. Shall we go home?",
+            "options": [" is getting", " get", " got", " has got"],
+            "answer": " is getting"
+        },
+        {
+            "sentence": "-“Are you ready, Belle?” “Yes, I……………”",
+            "options": [" am coming", " come", " came", " have came"],
+            "answer": " come"
+        },
+        {
+            "sentence": "-Look! That guy………..to break the door of your house.",
+            "options": [" try", " tried", " is trying", " has tried"],
+            "answer": " is trying"
+        },
+        {
+            "sentence": "You (know) …………..the answer to this question?",
+            "options": [" know", " knows", " am knowing", " are knowing"],
+            "answer": " know"
+        },
+        {
+            "sentence": "The clock (strike) ………………..12 o'clock.",
+            "options": [" strikes", " are striking", " is striking", " is strikes"],
+            "answer": " strikes"
+        },
+        {
+            "sentence": "I (like) ………………..chocolate.",
+            "options": [" like", " likes", " am liking", " are liking"],
+            "answer": " like"
+        },
+        {
+            "sentence": "I (see) ………………..the sun in the sky.",
+            "options": [" see", " sees", " am seeing", " are seeing"],
+            "answer": " see"
+        },
+        {
+            "sentence": "My dog (bark) ………………..at the cat.",
+            "options": [" barks", " bark", " is barking", " are barking"],
+            "answer": " barks"
+        },
+        {
+            "sentence": "The children (play) ………………..in the park.",
+            "options": [" play", " plays", " are playing", " are playing"],
+            "answer": " are playing"
+        },
+        {
+            "sentence": "The teacher (explain) ………………..the lesson to the students.",
+            "options": [" explains", " explain", " is explaining", " are explaining"],
+            "answer": " is explaining"
+        },
+        {
+            "sentence": "The sun (set) ………………..in the west.",
+            "options": [" sets", " set", " is setting", " are setting"],
+            "answer": " sets"
+        },
+        {
+            "sentence": "The wind (blow) ………………..through the trees.",
+            "options": [" blows", " blow", " is blowing", " are blowing"],
+            "answer": " blows"
+        },
+        {
+            "sentence": "The water (flow) ………………..in the river.",
+            "options": [" flows", " flow", " is flowing", " are flowing"],
+            "answer": " flows"
+        },
+        {
+            "sentence": "The leaves (fall) ………………..from the trees in the fall.",
+            "options": [" fall", " falls", " is falling", " are falling"],
+            "answer": " fall"
+        },
+        {
+            "sentence": "The birds (sing) ………………..in the trees.",
+            "options": [" sing", " sings", " is singing", " are singing"],
+            "answer": " sing"
+        },
+        {
+            "sentence": "The clock (ring) ………………..at 7:00 am.",
+            "options": [" rings", " are ringing", " is ringing", " is rings"],
+            "answer": " rings"
+        },
+        {
+            "sentence": "The alarm clock (go off) ………………..in the morning.",
+            "options": [" goes off", " goes offs", " going off"],
+            "answer": " goes off"
+        },
+        {
+            "sentence": "I (need) ………………..a new pair of shoes.",
+            "options": [" need", " needs", " am needing", " are needing"],
+            "answer": " need"
+        },
+        {
+            "sentence": "The students (study) ………………..hard for the exam.",
+            "options": [" study", " studies", " are studying", " are studying"],
+            "answer": " are studying"
+        },
+        {
+            "sentence": "The train (arrive) ………………..at the station at 7:00 pm.",
+            "options": [" arrives", " are arriving", " is arriving", " is arrives"],
+            "answer": " arrives"
+        },
+        {
+            "sentence": "The sun (rise) ………………..in the east and sets in the west.",
+            "options": [" rises", " rise", " is rising", " are rising"],
+            "answer": " rises"
+        },
+        {
+            "sentence": "The teacher (teach) ………………..English to the students.",
+            "options": [" teaches", " teach", " is teaching", " are teaching"],
+            "answer": " teaches"
+        },
+        {
+            "sentence": "The children (go) ………………..to school every day.",
+            "options": [" go", " goes", " are going", " are going"],
+            "answer": " are going"
+        },
+        {
+            "sentence": "The weather (be) ………………..hot today.",
+            "options": [" is", " are", " be", " being"],
+            "answer": " is"
+        },
+        {
+            "sentence": "The ball (roll) ………………..down the hill.",
+            "options": [" rolls", " roll", " is rolling", " are rolling"],
+            "answer": " rolls"
+        },
+        {
+            "sentence": "The water (freeze) ………………..in the winter.",
+            "options": [" freezes", " freeze", " is freezing", " are freezing"],
+            "answer": " freezes"
+        },
+        {
+            "sentence": "The leaves (turn) ………………..red in the fall.",
+            "options": [" turn", " turns", " is turning", " are turning"],
+            "answer": " turns"
+        },
+        {
+            "sentence": "The birds (fly) ………………..south for the winter.",
+            "options": [" fly", " flies", " is flying", " are flying"],
+            "answer": " flies"
+        },
+        {
+            "sentence": "The sun (set) ………………..in the west.",
+            "options": [" sets", " set", " is setting", " are setting"],
+            "answer": " sets"
+        },
+        {
+            "sentence": "The wind (blow) ………………..through the trees.",
+            "options": [" blows", " blow", " is blowing", " are blowing"],
+            "answer": " blows"
+        },
+        {
+            "sentence": "I (love) ………………..you.",
+            "options": [" love", " loves", " am loving", " are loving"],
+            "answer": " love"
+        },
+        {
+            "sentence": "She (play) ………………..the piano very well.",
+            "options": [" plays", " play", " is playing", " are playing"],
+            "answer": " plays"
+        },
+        {
+            "sentence": "The children (sleep) ………………..in their beds at night.",
+            "options": [" sleep", " sleeps", " are sleeping", " are sleeping"],
+            "answer": " are sleeping"
+        },
+        {
+            "sentence": "The train (leave) ………………..at 7:00 am every morning.",
+            "options": [" leaves", " are leaving", " is leaving", " is leaves"],
+            "answer": " leaves"
+        },
+        {
+            "sentence": "The teacher (give) ………………..the students a test tomorrow.",
+            "options": [" gives", " give", " is giving", " are giving"],
+            "answer": " gives"
+        },
+        {
+            "sentence": "The sun (shine) ………………..in the sky.",
+            "options": [" shines", " shine", " is shining", " are shining"],
+            "answer": " shines"
+        },
+        {
+            "sentence": "The dog (bark) ………………..at the mailman.",
+            "options": [" barks", " bark", " is barking", " are barking"],
+            "answer": " barks"
+        },
+        {
+            "sentence": "The leaves (fall) ………………..from the trees in the fall.",
+            "options": [" fall", " falls", " is falling", " are falling"],
+            "answer": " fall"
+        },
+        {
+            "sentence": "The birds (sing) ………………..in the trees.",
+            "options": [" sing", " sings", " is singing", " are singing"],
+            "answer": " sing"
+        },
+        {
+            "sentence": "The clock (ring) ………………..at 7:00 am.",
+            "options": [" rings", " are ringing", " is ringing", " is rings"],
+            "answer": " rings"
+        },
+        {
+            "sentence": "The alarm clock (go off) ………………..in the morning.",
+            "options": [" goes off", " goes offs", " going off"],
+            "answer": " goes off"
+        },
+        {
+            "sentence": "The children (play) ………………..in the park.",
+            "options": [" play", " plays", " are playing", " are playing"],
+            "answer": " are playing"
+        },
+        {
+            "sentence": "The teacher (explain) ………………..the lesson to the students.",
+            "options": [" explains", " explain", " is explaining", " are explaining"],
+            "answer": " is explaining"
+        },
+        {
+            "sentence": "He (get up) ………………..at 7:00 am every morning.",
+            "options": [" gets up", " get up", " is getting up", " are getting up"],
+            "answer": " gets up"
+        },
+        {
+            "sentence": "I (have) ………………..a cup of coffee in the morning.",
+            "options": [" have", " has", " am having", " are having"],
+            "answer": " have"
+        },
+        {
+            "sentence": "The sun (rise) ………………..in the east.",
+            "options": [" rises", " rise", " is rising", " are rising"],
+            "answer": " rises"
+        },
+        {
+            "sentence": "The children (go) ………………..to school by bus.",
+            "options": [" go", " goes", " are going", " are going"],
+            "answer": " are going"
+        },
+        {
+            "sentence": "The teacher (teach) ………………..English to the students.",
+            "options": [" teaches", " teach", " is teaching", " are teaching"],
+            "answer": " teaches"
+        },
+        {
+            "sentence": "The weather (be) ………………..nice today.",
+            "options": [" is", " are", " be", " being"],
+            "answer": " is"
+        },
+        {
+            "sentence": "The ball (roll) ………………..down the hill.",
+            "options": [" rolls", " roll", " is rolling", " are rolling"],
+            "answer": " rolls"
+        },
+        {
+            "sentence": "The water (freeze) ………………..in the winter.",
+            "options": [" freezes", " freeze", " is freezing", " are freezing"],
+            "answer": " freezes"
+        },
+        {
+            "sentence": "The leaves (turn) ………………..red in the fall.",
+            "options": [" turn", " turns", " is turning", " are turning"],
+            "answer": " turns"
+        },
+        {
+            "sentence": "The birds (fly) ………………..south for the winter.",
+            "options": [" fly", " flies", " is flying", " are flying"],
+            "answer": " flies"
+        },
+        {
+            "sentence": "The sun (set) ………………..in the west.",
+            "options": [" sets", " set", " is setting", " are setting"],
+            "answer": " sets"
+        },
+        {
+            "sentence": "The wind (blow) ………………..through the trees.",
+            "options": [" blows", " blow", " is blowing", " are blowing"],
+            "answer": " blows"
+        },
+        {
+            "sentence": "I (need) ………………..a new pair of shoes.",
+            "options": [" need", " needs", " am needing", " are needing"],
+            "answer": " need"
+        },
+        {
+            "sentence": "He (like) ………………..to play video games.",
+            "options": [" like", " likes", " am liking", " are liking"],
+            "answer": " like"
+        },
+        {
+            "sentence": "The children (want) ………………..to go to the park.",
+            "options": [" want", " wants", " are wanting", " are wanting"],
+            "answer": " want"
+        },
+        {
+            "sentence": "I (know) ………………..the answer to that question.",
+            "options": [" know", " knows", " am knowing", " are knowing"],
+            "answer": " know"
+        },
+        {
+            "sentence": "The teacher (explain) ………………..the lesson to the students.",
+            "options": [" explains", " explain", " is explaining", " are explaining"],
+            "answer": " explains"
+        },
+        {
+            "sentence": "The weather (be) ………………..hot today.",
+            "options": [" is", " are", " be", " being"],
+            "answer": " is"
+        },
+        {
+            "sentence": "The ball (roll) ………………..down the hill.",
+            "options": [" rolls", " roll", " is rolling", " are rolling"],
+            "answer": " rolls"
+        },
+        {
+            "sentence": "The water (freeze) ………………..in the winter.",
+            "options": [" freezes", " freeze", " is freezing", " are freezing"],
+            "answer": " freezes"
+        },
+        {
+            "sentence": "The leaves (turn) ………………..red in the fall.",
+            "options": [" turn", " turns", " is turning", " are turning"],
+            "answer": " turns"
+        },
+        {
+            "sentence": "The birds (fly) ………………..south for the winter.",
+            "options": [" fly", " flies", " is flying", " are flying"],
+            "answer": " flies"
+        },
+        {
+            "sentence": "The sun (set) ………………..in the west.",
+            "options": [" sets", " set", " is setting", " are setting"],
+            "answer": " sets"
+        },
+        {
+            "sentence": "The wind (blow) ………………..through the trees.",
+            "options": [" blows", " blow", " is blowing", " are blowing"],
+            "answer": " blows"
+        },
+        {
+            "sentence": "The children (play) ………………..in the park.",
+            "options": [" play", " plays", " are playing", " are playing"],
+            "answer": " are playing"
+        },
+        {
+            "sentence": "The teacher (explain) ………………..the lesson to the students.",
+            "options": [" explains", " explain", " is explaining", " are explaining"],
+            "answer": " explains"
+        },
+        {
+            "sentence": "She (wash) ………………..the dishes every day.",
+            "options": [" washes", " wash", " is washing", " are washing"],
+            "answer": " washes"
+        },
+        {
+            "sentence": "I (go) ………………..to work by car.",
+            "options": [" go", " goes", " are going", " are going"],
+            "answer": " go"
+        },
+        {
+            "sentence": "The children (play) ………………..in the sandbox.",
+            "options": [" play", " plays", " are playing", " are playing"],
+            "answer": " are playing"
+        },
+        {
+            "sentence": "The teacher (teach) ………………..English to the students.",
+            "options": [" teaches", " teach", " is teaching", " are teaching"],
+            "answer": " teaches"
+        },
+        {
+            "sentence": "The weather (be) ………………..nice today.",
+            "options": [" is", " are", " be", " being"],
+            "answer": " is"
+        },
+        {
+            "sentence": "The ball (roll) ………………..down the hill.",
+            "options": [" rolls", " roll", " is rolling", " are rolling"],
+            "answer": " rolls"
+        },
+        {
+            "sentence": "The water (freeze) ………………..in the winter.",
+            "options": [" freezes", " freeze", " is freezing", " are freezing"],
+            "answer": " freezes"
+        },
+        {
+            "sentence": "The leaves (turn) ………………..red in the fall.",
+            "options": [" turn", " turns", " is turning", " are turning"],
+            "answer": " turns"
+        },
+        {
+            "sentence": "The birds (fly) ………………..south for the winter.",
+            "options": [" fly", " flies", " is flying", " are flying"],
+            "answer": " flies"
+        },
+        {
+            "sentence": "The sun (set) ………………..in the west.",
+            "options": [" sets", " set", " is setting", " are setting"],
+            "answer": " sets"
+        },
+        {
+            "sentence": "The wind (blow) ………………..through the trees.",
+            "options": [" blows", " blow", " is blowing", " are blowing"],
+            "answer": " blows"
+        },
+        {
+            "sentence": "I (need) ………………..a new pair of shoes.",
+            "options": [" need", " needs", " am needing", " are needing"],
+            "answer": " need"
+        },
+        {
+            "sentence": "I (love) ………………..you.",
+            "options": [" love", " loves", " am loving", " are loving"],
+            "answer": " love"
+        }
+    ],
+	"present perfect": 
+	[
+        {
+            "sentence": "When ____________ the school?",
+            "options": [" have you joined", " did you joined", " did you join", " have you ever joined"],
+            "answer": " did you join"
+        },
+        {
+            "sentence": "_____________ in England?",
+            "options": [" Did you ever worked", " Have you ever worked", " Worked you", " Didn't you have worked"],
+            "answer": " Have you ever worked"
+        },
+        {
+            "sentence": "That's the best speech _________",
+            "options": [" I never heard", " I didn't hear", " I used to hear", " I've ever heard"],
+            "answer": " I've ever heard"
+        },
+        {
+            "sentence": "He's the most difficult housemate _____________________",
+            "options": [" I never dealt with.", " I never had to deal with.", " I've ever had to deal with.", " I've never had to deal with"],
+            "answer": " I never had to deal with."
+        },
+        {
+            "sentence": "______ to him last week.",
+            "options": [" I spoke", " I've already spoken", " I didn't spoke", " I speaked"],
+            "answer": " I spoke"
+        },
+        {
+            "sentence": "_____a contract last year and it is still valid.",
+            "options": [" We have signed", " We signed", " We haven't signed", " We have sign"],
+            "answer": " We have signed"
+        },
+        {
+            "sentence": "______ from a business trip to France.",
+            "options": [" I come back", " I came back", " I never came back", " I've just come back"],
+            "answer": " I've just come back"
+        },
+        {
+            "sentence": "Prices ________ in 1995 but then _____ in 1996.",
+            "options": [" rised _ falled", " rose _ fell", " have risen _ have fallen", " rose _ have fallen"],
+            "answer": " rose _ fell"
+        },
+        {
+            "sentence": "You ____________ to a word ____________",
+            "options": [" listened _ I haven't said", " didn't listen _ I say", " listened _ saying", " haven't listened _ I've said back"],
+            "answer": " listened _ saying"
+        },
+        {
+            "sentence": "I can't believe that ________________ the news.",
+            "options": [" you haven't read", " you didn't read", " you don't read", " you read not"],
+            "answer": " you didn't read"
+        },
+        {
+	      "sentence": "How many times have you ______ this year?",
+	      "options": [
+	        " been to the cinema",
+	        " go to the cinema",
+	        " went to the cinema",
+	        " did go to the cinema"
+	      ],
+	      "answer": " been to the cinema"
+	    },
+	    {
+            "sentence": "_____ you ever _______ to Italy?",
+            "options": [" Have / be", " Did / been", " Were / been", " Are / being"],
+            "answer": " Have / be"
+        },
+        {
+            "sentence": "She _____ ___________ the news on TV yesterday.",
+            "options": [" was watching", " watched", " is watching", " watches"],
+            "answer": " watched"
+        },
+        {
+            "sentence": "They ____________ at the new restaurant last night.",
+            "options": [" ate", " are eating", " had eaten", " have eaten"],
+            "answer": " had eaten"
+        },
+        {
+            "sentence": "My friend _____ _______ at the concert last weekend.",
+            "options": [" were singing", " sang", " sings", " has sung"],
+            "answer": " sang"
+        },
+        {
+            "sentence": "_______ you ________ the movie 'Titanic'?",
+            "options": [" Did / saw", " Have / see", " Were / seeing", " Do / seen"],
+            "answer": " Did / saw"
+        },
+        {
+            "sentence": "I ________ to the gym every day this week.",
+            "options": [" go", " goes", " went", " am going"],
+            "answer": " am going"
+        },
+        {
+            "sentence": "He _____ _________ in the car accident last year.",
+            "options": [" is injured", " was injured", " injures", " has injured"],
+            "answer": " was injured"
+        },
+        {
+            "sentence": "_______ your parents ____________ when you were a child?",
+            "options": [" Were / strict", " Did / strict", " Have / strict", " Are / strict"],
+            "answer": " Were / strict"
+        },
+        {
+            "sentence": "She _________ in London for five years before moving to New York.",
+            "options": [" lives", " is living", " lived", " has lived"],
+            "answer": " lived"
+        },
+        {
+            "sentence": "______ he ________ the exam last week?",
+            "options": [" Did / pass", " Have / passed", " Was / passing", " Is / passed"],
+            "answer": " Did / pass"
+        },
+        {
+            "sentence": "______ you ________ your passport with you?",
+            "options": [" Did / take", " Have / taken", " Was / taking", " Are / take"],
+            "answer": " Have / taken"
+        },
+        {
+            "sentence": "They ____________ the news before I arrived.",
+            "options": [" had heard", " are hearing", " heard", " have heard"],
+            "answer": " had heard"
+        },
+        {
+            "sentence": "She ____________ the piano when I called her.",
+            "options": [" was playing", " is playing", " played", " plays"],
+            "answer": " was playing"
+        },
+        {
+            "sentence": "_______ he _______ his keys at home?",
+            "options": [" Did / leave", " Have / left", " Was / leaving", " Is / leaves"],
+            "answer": " Did / leave"
+        },
+        {
+            "sentence": "I _____________ in this city for over a decade.",
+            "options": [" have lived", " live", " lived", " am living"],
+            "answer": " have lived"
+        },
+        {
+            "sentence": "_______ she _________ her bike to work yesterday?",
+            "options": [" Did / ride", " Have / ridden", " Was / riding", " Is / rides"],
+            "answer": " Did / ride"
+        },
+        {
+            "sentence": "He _______ a new car last month.",
+            "options": [" bought", " buys", " is buying", " has bought"],
+            "answer": " bought"
+        },
+        {
+            "sentence": "______ you _______ to the gym this week?",
+            "options": [" Did / go", " Have / gone", " Were / going", " Are / goes"],
+            "answer": " Have / gone"
+        },
+        {
+            "sentence": "They ____________ for hours before they found the treasure.",
+            "options": [" had searched", " are searching", " searched", " have searched"],
+            "answer": " had searched"
+        },
+        {
+            "sentence": "_______ he ________ a cold last week?",
+            "options": [" Did / catch", " Have / caught", " Was / catching", " Is / catches"],
+            "answer": " Did / catch"
+        }
+    ],
+
+	"present perfect continuous": [
+        {
+	        "sentence": "The price of petrol … (rise) by 15% over the past year.",
+	        "options": [" is rising", " will rise", " has risen"],
+	        "answer": " has risen"
+	    },
+	    {
+	        "sentence": "No wonder you are overweight! You … (eat) chocolates all day long!",
+	        "options": [" eat", " have eaten", " have been eating"],
+	        "answer": " have been eating"
+	    },
+	    {
+	        "sentence": "I … (read) a really good book this morning.",
+	        "options": [" reading", " have read", " read"],
+	        "answer": " read"
+	    },
+	    {
+	        "sentence": "Doesn’t this room look better? I … (put) some posters up on the walls.",
+	        "options": [" am putting", " have put", " put"],
+	        "answer": " have put"
+	    },
+	    {
+	        "sentence": "Don’t disappoint me! I … (count) on you.",
+	        "options": [" count", " am counting", " have counted"],
+	        "answer": " have counted"
+	    },
+	    {
+	        "sentence": "Don’t forget your pills today. Have you … (take) them?",
+	        "options": [" take", " took", " taken"],
+	        "answer": " taken"
+	    },
+	    {
+	        "sentence": "Who … (wear) my scarf?",
+	        "options": [" wear", " is wearing", " has worn"],
+	        "answer": " has worn"
+	    },
+	    {
+	        "sentence": "I think there’s something wrong with your motorbike. It’s … (make) some very funny noises.",
+	        "options": [" making", " makes", " make"],
+	        "answer": " making"
+	    },
+	    {
+	        "sentence": "Jack … (ask) for a pay-rise three times this year.",
+	        "options": [" asks", " is asking", " has asked"],
+	        "answer": " has asked"
+	    },
+	    {
+	        "sentence": "I … (phone) Ann all evening, but there’s no reply.",
+	        "options": [" phone", " phoned", " have phoned"],
+	        "answer": " have phoned"
+	    },
+	    {
+	        "sentence": "She … (study) for her final exams all week.",
+	        "options": [" studies", " has been studying", " studied"],
+	        "answer": " has been studying"
+	    },
+	    {
+	        "sentence": "Why are you so tired? You … (work) all day long.",
+	        "options": [" work", " worked", " have been working"],
+	        "answer": " have been working"
+	    },
+	    {
+	        "sentence": "I … (live) in this city for five years now.",
+	        "options": [" live", " am living", " have lived"],
+	        "answer": " have lived"
+	    },
+	    {
+	        "sentence": "The meeting … (start) in ten minutes.",
+	        "options": [" starts", " will start", " is starting"],
+	        "answer": " will start"
+	    },
+	    {
+	        "sentence": "I … (not/see) you for a long time.",
+	        "options": [" not see", " have not seen", " did not see"],
+	        "answer": " have not seen"
+	    },
+	    {
+	        "sentence": "She … (not/eat) lunch yet.",
+	        "options": [" not eat", " has not eaten", " did not eat"],
+	        "answer": " has not eaten"
+	    },
+	    {
+	        "sentence": "I … (watch) TV when the phone rang.",
+	        "options": [" watch", " was watching", " have watched"],
+	        "answer": " was watching"
+	    },
+	    {
+	        "sentence": "Tom … (travel) to many countries in the last few years.",
+	        "options": [" travels", " has been traveling", " traveled"],
+	        "answer": " has been traveling"
+	    },
+	    {
+	        "sentence": "I … (read) the newspaper when I heard the news.",
+	        "options": [" read", " was reading", " have read"],
+	        "answer": " was reading"
+	    },
+	    {
+	        "sentence": "The company … (grow) rapidly since it was founded.",
+	        "options": [" grows", " has grown", " grew"],
+	        "answer": " has grown"
+	    },
+	    {
+	        "sentence": "She … (run) in the marathon next month.",
+	        "options": [" runs", " will run", " is running"],
+	        "answer": " will run"
+	    },
+	    {
+	        "sentence": "I … (visit) my grandparents last weekend.",
+	        "options": [" visit", " visited", " have visited"],
+	        "answer": " visited"
+	    },
+	    {
+	        "sentence": "The children … (play) in the park all afternoon.",
+	        "options": [" play", " played", " have played"],
+	        "answer": " played"
+	    },
+	    {
+	        "sentence": "She … (clean) her room for the past hour.",
+	        "options": [" cleans", " has been cleaning", " cleaned"],
+	        "answer": " has been cleaning"
+	    },
+	    {
+	        "sentence": "I … (not/finish) my homework yet.",
+	        "options": [" not finish", " have not finished", " did not finish"],
+	        "answer": " have not finished"
+	    },
+	    {
+	        "sentence": "He … (drive) to work every day this week.",
+	        "options": [" drives", " has been driving", " drove"],
+	        "answer": " has been driving"
+	    },
+	    {
+	        "sentence": "They … (visit) the museum when they were in London.",
+	        "options": [" visit", " were visiting", " have visited"],
+	        "answer": " were visiting"
+	    },
+	    {
+	        "sentence": "We … (not/go) to that restaurant before.",
+	        "options": [" not go", " have not gone", " did not go"],
+	        "answer": " have not gone"
+	    },
+	    {
+	        "sentence": "I … (not/see) that movie yet.",
+	        "options": [" not see", " have not seen", " did not see"],
+	        "answer": " have not seen"
+	    },
+	    {
+	        "sentence": "The sun … (shine) all day yesterday.",
+	        "options": [" shines", " shone", " has shone"],
+	        "answer": " shone"
+	    },
+	    {
+	        "sentence": "It’s a long time _______________ I last saw you.",
+	        "options": [" since", " when"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I’ve seen Bill quite often _______________.",
+	        "options": [" lately", " from time to time"],
+	        "answer": " from time to time"
+	    },
+	    {
+	        "sentence": "Have you spoken to the director _______________?",
+	        "options": [" beforehand", " already"],
+	        "answer": " already"
+	    },
+	    {
+	        "sentence": "I’ve lived in the same house _______________.",
+	        "options": [" for years", " for ever"],
+	        "answer": " for years"
+	    },
+	    {
+	        "sentence": "I’ve read the paper_______________.",
+	        "options": [" now", " still"],
+	        "answer": " still"
+	    },
+	    {
+	        "sentence": "Diana has bought a computer _______________.",
+	        "options": [" two years ago", " since then"],
+	        "answer": " two years ago"
+	    },
+	    {
+	        "sentence": "Nothing much has been happening by _______________.",
+	        "options": [" by now", " so far"],
+	        "answer": " so far"
+	    },
+	    {
+	        "sentence": "I’ve finished reading her new book _______________.",
+	        "options": [" at last", " this evening"],
+	        "answer": " at last"
+	    },
+	    {
+	        "sentence": "Sue bought a CD player last week and she’s been listening to music _______________.",
+	        "options": [" ever since", " for a while"],
+	        "answer": " ever since"
+	    },
+	    {
+	        "sentence": "Sorry, but I haven’t got that work finished _______________.",
+	        "options": [" already", " yet"],
+	        "answer": " yet"
+	    },
+	    {
+	        "sentence": "I haven't seen Mary _______________ she moved to London.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I’ve been going to the gym _______________ I started my new fitness routine.",
+	        "options": [" since", " for"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "She’s been working at the same company _______________ she graduated from college.",
+	        "options": [" since", " for"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I’ve known John _______________ we were kids.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "We've been friends _______________ a long time.",
+	        "options": [" since", " for"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "They’ve been living in that house _______________ 2005.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "The movie has been out _______________ last month.",
+	        "options": [" for", " since"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "I haven’t heard from him _______________ he moved to Canada.",
+	        "options": [" since", " for"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I've been studying Spanish _______________ I was in high school.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "She’s been taking piano lessons _______________ a year now.",
+	        "options": [" for", " since"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "I haven't visited my hometown _______________ I left for college.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "He has been running his own business _______________ he was 25.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I've had this car _______________ three years.",
+	        "options": [" for", " since"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "She’s been dancing ballet _______________ she was a child.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I haven't been to the beach _______________ last summer.",
+	        "options": [" for", " since"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "He has been a member of the club _______________ 2010.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I haven’t eaten sushi _______________ my last trip to Japan.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "She’s been working as a teacher _______________ she graduated from university.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I haven't played chess _______________ my childhood.",
+	        "options": [" for", " since"],
+	        "answer": " since"
+	    },
+	    {
+	        "sentence": "I’ve been attending this school _______________ five years.",
+	        "options": [" for", " since"],
+	        "answer": " for"
+	    },
+	    {
+	        "sentence": "She ______ (work) here for five years.",
+	        "options": [" works", " is working", " has worked"],
+	        "answer": " has worked"
+	    },
+	    {
+	        "sentence": "I ______ (study) all day.",
+	        "options": [" study", " studied", " have studied"],
+	        "answer": " have studied"
+	    },
+	    {
+	        "sentence": "You ______ (eat) a lot recently.",
+	        "options": [" eat", " ate", " have eaten"],
+	        "answer": " have eaten"
+	    },
+	    {
+	        "sentence": "We ______ (live) in London for six months.",
+	        "options": [" live", " lived", " have lived"],
+	        "answer": " have lived"
+	    },
+	    {
+	        "sentence": "He _____ (play) football, so he’s tired.",
+	        "options": [" plays", " played", " has played"],
+	        "answer": " has played"
+	    },
+	    {
+	        "sentence": "They _____ (learn) English for two years.",
+	        "options": [" learn", " learned", " have learned"],
+	        "answer": " have learned"
+	    },
+	    {
+	        "sentence": "I _____ (cook) so I’m really hot.",
+	        "options": [" cook", " cooked", " have cooked"],
+	        "answer": " have cooked"
+	    },
+	    {
+	        "sentence": "She ____ (go) to the cinema every weekend for years.",
+	        "options": [" goes", " went", " has gone"],
+	        "answer": " has gone"
+	    },
+	    {
+	        "sentence": "It _____ (rain) the pavement is wet.",
+	        "options": [" rains", " rained", " has rained"],
+	        "answer": " has rained"
+	    },
+	    {
+	        "sentence": "You ____ (sleep) for twelve hours.",
+	        "options": [" sleep", " slept", " have slept"],
+	        "answer": " have slept"
+	    },
+	    {
+	        "sentence": "I ______ (not/work) today.",
+	        "options": [" work", " worked", " have not worked"],
+	        "answer": " have not worked"
+	    },
+	    {
+	        "sentence": "You _____ (not/eat) well recently.",
+	        "options": [" eat", " ate", " have not eaten"],
+	        "answer": " have not eaten"
+	    },
+	    {
+	        "sentence": "We _____ (not/exercise) enough.",
+	        "options": [" exercise", " exercised", " have not exercised"],
+	        "answer": " have not exercised"
+	    },
+	    {
+	        "sentence": "She _____ (not/study) today.",
+	        "options": [" studies", " studied", " has not studied"],
+	        "answer": " has not studied"
+	    },
+	    {
+	        "sentence": "They _____ (not/live) here for very long.",
+	        "options": [" live", " lived", " have not lived"],
+	        "answer": " have not lived"
+	    },
+	    {
+	        "sentence": "It _____ (not/snow).",
+	        "options": [" snows", " snowed", " does not snow"],
+	        "answer": " does not snow"
+	    },
+	    {
+	        "sentence": "He _____ (not/play) football for five years.",
+	        "options": [" plays", " played", " has not played"],
+	        "answer": " has not played"
+	    },
+	    {
+	        "sentence": "We would like to eat something because we ________ (not eat) for the whole day.",
+	        "options": [" do not eat", " did not eat", " have not eaten"],
+	        "answer": " have not eaten"
+	    },
+	    {
+	        "sentence": "It ______ (rain) for the whole morning, so she doesn’t want to go out.",
+	        "options": [" rains", " rained", " has rained"],
+	        "answer": " has rained"
+	    },
+	    {
+	        "sentence": "John Wick _____ (watch) his favorite film since I came.",
+	        "options": [" watches", " watched", " has been watching"],
+	        "answer": " has been watching"
+	    },
+	    {
+	        "sentence": "She ______________ (read) that book last week.",
+	        "options": [" read", " reads", " has read"],
+	        "answer": " read"
+	    },
+	    {
+	        "sentence": "They ______________ (travel) to Europe in the summer.",
+	        "options": [" travels", " traveled", " have traveled"],
+	        "answer": " traveled"
+	    },
+	    {
+	        "sentence": "I ______________ (meet) him a few years ago.",
+	        "options": [" meets", " met", " have met"],
+	        "answer": " met"
+	    },
+	    {
+	        "sentence": "She ______________ (dance) for two hours at the party.",
+	        "options": [" dances", " danced", " has danced"],
+	        "answer": " danced"
+	    },
+	    {
+	        "sentence": "He ______________ (paint) the house last summer.",
+	        "options": [" paints", " painted", " has painted"],
+	        "answer": " painted"
+	    },
+	    {
+	        "sentence": "We ______________ (sing) that song before.",
+	        "options": [" sings", " sang", " have sung"],
+	        "answer": " have sung"
+	    },
+	    {
+	        "sentence": "You ______________ (visit) that museum in the past.",
+	        "options": [" visits", " visited", " have visited"],
+	        "answer": " visited"
+	    },
+	    {
+	        "sentence": "They ______________ (swim) in the ocean last summer.",
+	        "options": [" swims", " swam", " have swum"],
+	        "answer": " swam"
+	    },
+	    {
+	        "sentence": "I ______________ (write) that letter a week ago.",
+	        "options": [" writes", " wrote", " have written"],
+	        "answer": " wrote"
+	    },
+	    {
+	        "sentence": "He ______________ (bake) a delicious cake for the party.",
+	        "options": [" bakes", " baked", " has baked"],
+	        "answer": " baked"
+	    },
+	    {
+	        "sentence": "She ______________ (run) a marathon last year.",
+	        "options": [" runs", " ran", " has run"],
+	        "answer": " ran"
+	    },
+	    {
+	        "sentence": "They ______________ (build) their own house a few years ago.",
+	        "options": [" builds", " built", " have built"],
+	        "answer": " built"
+	    },
+	    {
+	        "sentence": "I ______________ (teach) English to children in the past.",
+	        "options": [" teaches", " taught", " have taught"],
+	        "answer": " taught"
+	    },
+	    {
+	        "sentence": "We ______________ (climb) that mountain last summer.",
+	        "options": [" climbs", " climbed", " have climbed"],
+	        "answer": " climbed"
+	    },
+	    {
+	        "sentence": "You ______________ (catch) a big fish on your last fishing trip.",
+	        "options": [" catches", " caught", " have caught"],
+	        "answer": " caught"
+	    },
+	    {
+	        "sentence": "She ______________ (play) the piano at the concert last week.",
+	        "options": [" plays", " played", " has played"],
+	        "answer": " played"
+	    },
+	    {
+	        "sentence": "I ______________ (cook) dinner for the family last night.",
+	        "options": [" cooks", " cooked", " have cooked"],
+	        "answer": " cooked"
+	    },
+	    {
+	        "sentence": "He ______________ (drive) a sports car last summer.",
+	        "options": [" drives", " drove", " has driven"],
+	        "answer": " drove"
+	    },
+	    {
+	        "sentence": "They ______________ (fly) to another country for their vacation.",
+	        "options": [" flies", " flew", " have flown"],
+	        "answer": " flew"
+	    },
+	    {
+	        "sentence": "You ______________ (eat) at that restaurant before.",
+	        "options": [" eats", " ate", " have eaten"],
+	        "answer": " ate"
+	    }
+	],
+	"simple past":
+	[
+	    {
+	        "sentence": "She (spend) ____ all her money last week.",
+	        "options": [" spend", " spent", " has spent"],
+	        "answer": " spent"
+	    },
+	    {
+	        "sentence": "Mum (not spend) ___________ any money on herself.",
+	        "options": [" doesn't spend", " didn't spend", " hasn't spent"],
+	        "answer": " hasn't spent"
+	    },
+	    {
+	        "sentence": "I (lend) __________ my penknife to someone, but I can't remember who it was now.",
+	        "options": [" lend", " lent", " have lent"],
+	        "answer": " have lent"
+	    },
+	    {
+	        "sentence": "John and his father (build) ___________ the cabin themselves last year.",
+	        "options": [" build", " built", " have built"],
+	        "answer": " built"
+	    },
+	    {
+	        "sentence": "My parents (sell) ____________ the stereo at a garage sale.",
+	        "options": [" sell", " sold", " have sold"],
+	        "answer": " sold"
+	    },
+	    {
+	        "sentence": "___________You (tell) ___________ anyone about this yesterday?",
+	        "options": [" Did you tell", " Have you told", " Do you tell"],
+	        "answer": " Did you tell"
+	    },
+	    {
+	        "sentence": "The unidentified plant (bear) ___________ gorgeous flowers.",
+	        "options": [" bear", " bore", " has borne"],
+	        "answer": " has borne"
+	    },
+	    {
+	        "sentence": "She (tear) ___________ the letter to pieces and threw it in the bin.",
+	        "options": [" tear", " tore", " has torn"],
+	        "answer": " tore"
+	    },
+	    {
+	        "sentence": "He often (wear) ___________ glasses for reading.",
+	        "options": [" wear", " wore", " has worn"],
+	        "answer": " has worn"
+	    },
+	    {
+	        "sentence": "Before God He (swear) ___________ he was innocent.",
+	        "options": [" swear", " swore", " has sworn"],
+	        "answer": " swore"
+	    },
+	    {
+	        "sentence": "Yesterday Clouds (creep) ___________ across the horizon, just above the line of trees.",
+	        "options": [" creep", " crept", " have crept"],
+	        "answer": " crept"
+	    },
+	    {
+	        "sentence": "We both (sleep) ___________ badly that night.",
+	        "options": [" sleep", " slept", " have slept"],
+	        "answer": " slept"
+	    },
+	    {
+	        "sentence": "She (weep) ___________ for the loss of her mother.",
+	        "options": [" weep", " wept", " has wept"],
+	        "answer": " wept"
+	    },
+	    {
+	        "sentence": "Jane (keep) ___________ the engine running.",
+	        "options": [" keep", " kept", " has kept"],
+	        "answer": " kept"
+	    },
+	    {
+	        "sentence": "A huge wave (sweep) ___________ over the deck.",
+	        "options": [" sweep", " swept", " has swept"],
+	        "answer": " swept"
+	    },
+	    {
+	        "sentence": "Mum (pay) ___________ for my driving lessons.",
+	        "options": [" pay", " paid", " has paid"],
+	        "answer": " paid"
+	    },
+	    {
+	        "sentence": "He (lay) ___________ his hand on my shoulder.",
+	        "options": [" lay", " laid", " has laid"],
+	        "answer": " laid"
+	    },
+	    {
+	        "sentence": "He (break) ___________ the biscuit in half and handed one piece to me.",
+	        "options": [" break", " broke", " has broken"],
+	        "answer": " broke"
+	    },
+	    {
+	        "sentence": "He (choose) ___________ his words carefully as he (speak) ___________.",
+	        "options": [" choose, speak", " chose, spoke", " has chosen, has spoken"],
+	        "answer": " chose, spoke"
+	    },
+	    {
+	        "sentence": "He .....................to the zoo last Sunday (go).",
+	        "options": [" go", " went", " has gone"],
+	        "answer": " went"
+	    },
+	    {
+	        "sentence": "She (not/ watch)....................................TV last night.",
+	        "options": [" doesn't watch", " didn't watch", " hasn't watched"],
+	        "answer": " didn't watch"
+	    },
+	    {
+	        "sentence": "They (meet)..............................their friends at the movie theater last week.",
+	        "options": [" meet", " met", " have met"],
+	        "answer": " met"
+	    },
+	    {
+	        "sentence": "What...............you (do).....................last night?",
+	        "options": [" do, done", " did, do", " have done, have done"],
+	        "answer": " did, do"
+	    },
+	    {
+	        "sentence": "........................... they (buy).....................a new car two days ago?",
+	        "options": [" buy, buying", " bought, buy", " have bought, bought"],
+	        "answer": " bought, buy"
+	    },
+	    {
+	        "sentence": "We .............. (have) a lot of homework yesterday.",
+	        "options": [" have, had", " had, has", " have had, had"],
+	        "answer": " had, has"
+	    },
+	    {
+	        "sentence": "He (find) ____________ his lost keys under the sofa.",
+	        "options": [" find", " found", " has found"],
+	        "answer": " has found"
+	    },
+	    {
+	        "sentence": "She (not go) ____________ to the gym yesterday.",
+	        "options": [" doesn't go", " didn't go", " hasn't gone"],
+	        "answer": " didn't go"
+	    },
+	    {
+	        "sentence": "I (break) ____________ my phone last week.",
+	        "options": [" break", " broke", " have broken"],
+	        "answer": " broke"
+	    },
+	    {
+	        "sentence": "We (have) ____________ pizza for dinner last night.",
+	        "options": [" have", " had", " have had"],
+	        "answer": " had"
+	    },
+	    {
+	        "sentence": "They (not meet) ____________ their friends at the party last weekend.",
+	        "options": [" don't meet", " didn't meet", " haven't met"],
+	        "answer": " didn't meet"
+	    },
+	    {
+	        "sentence": "__________ you (read) __________ that book before?",
+	        "options": [" Did you read", " Have you read", " Do you read"],
+	        "answer": " Have you read"
+	    },
+	    {
+	        "sentence": "He (write) ____________ a letter to his grandmother last night.",
+	        "options": [" write", " wrote", " has written"],
+	        "answer": " wrote"
+	    },
+	    {
+	        "sentence": "She (not visit) ____________ the museum on her trip to Paris.",
+	        "options": [" doesn't visit", " didn't visit", " hasn't visited"],
+	        "answer": " didn't visit"
+	    },
+	    {
+	        "sentence": "I (eat) ____________ breakfast this morning.",
+	        "options": [" eat", " ate", " have eaten"],
+	        "answer": " have eaten"
+	    },
+	    {
+	        "sentence": "They (paint) ____________ their house last summer.",
+	        "options": [" paint", " painted", " have painted"],
+	        "answer": " painted"
+	    },
+	    {
+	        "sentence": "__________ she (tell) ____________ you about her plans yet?",
+	        "options": [" Did she tell", " Has she told", " Does she tell"],
+	        "answer": " Has she told"
+	    },
+	    {
+	        "sentence": "We (visit) ____________ the Grand Canyon last year.",
+	        "options": [" visit", " visited", " have visited"],
+	        "answer": " visited"
+	    },
+	    {
+	        "sentence": "He (not drink) ____________ coffee in the afternoon.",
+	        "options": [" doesn't drink", " didn't drink", " hasn't drunk"],
+	        "answer": " didn't drink"
+	    },
+	    {
+	        "sentence": "I (buy) ____________ a new car last month.",
+	        "options": [" buy", " bought", " have bought"],
+	        "answer": " bought"
+	    },
+	    {
+	        "sentence": "She (take) ____________ a nap this afternoon.",
+	        "options": [" take", " took", " has taken"],
+	        "answer": " has taken"
+	    },
+	    {
+	        "sentence": "They (not play) ____________ soccer last weekend.",
+	        "options": [" don't play", " didn't play", " haven't played"],
+	        "answer": " didn't play"
+	    },
+	    {
+	        "sentence": "He (sing) ____________ a song at the concert last night.",
+	        "options": [" sing", " sang", " has sung"],
+	        "answer": " sang"
+	    },
+	    {
+	        "sentence": "We (not see) ____________ the new movie at the cinema.",
+	        "options": [" don't see", " didn't see", " haven't seen"],
+	        "answer": " didn't see"
+	    },
+	    {
+	        "sentence": "__________ you (wear) ____________ your new dress to the party?",
+	        "options": [" Did you wear", " Have you worn", " Do you wear"],
+	        "answer": " Have you worn"
+	    },
+	    {
+	        "sentence": "She (dance) ____________ all night at the wedding.",
+	        "options": [" dance", " danced", " has danced"],
+	        "answer": " danced"
+	    },
+	    {
+	        "sentence": "He (not study) ____________ for the test last week.",
+	        "options": [" doesn't study", " didn't study", " hasn't studied"],
+	        "answer": " didn't study"
+	    },
+	    {
+	        "sentence": "I (swim) ____________ in the ocean last summer.",
+	        "options": [" swim", " swam", " have swum"],
+	        "answer": " swam"
+	    },
+	    {
+	        "sentence": "They (not cook) ____________ dinner last night.",
+	        "options": [" don't cook", " didn't cook", " haven't cooked"],
+	        "answer": " didn't cook"
+	    },
+	    {
+	        "sentence": "__________ she (read) ____________ a new book this week?",
+	        "options": [" Did she read", " Has she read", " Does she read"],
+	        "answer": " Has she read"
+	    },
+	    {
+	        "sentence": "He (write) ____________ a poem yesterday.",
+	        "options": [" write", " wrote", " has written"],
+	        "answer": " wrote"
+	    },
+	    {
+	        "sentence": "We (not drive) ____________ to the beach last summer.",
+	        "options": [" don't drive", " didn't drive", " haven't driven"],
+	        "answer": " didn't drive"
+	    },
+	    {
+	        "sentence": "She (not eat) ____________ sushi for dinner.",
+	        "options": [" doesn't eat", " didn't eat", " hasn't eaten"],
+	        "answer": " didn't eat"
+	    },
+	    {
+	        "sentence": "I (buy) ____________ a new phone last month.",
+	        "options": [" buy", " bought", " have bought"],
+	        "answer": " bought"
+	    },
+	    {
+	        "sentence": "They (take) ____________ a vacation last summer.",
+	        "options": [" take", " took", " have taken"],
+	        "answer": " took"
+	    },
+	    {
+	        "sentence": "They ................... students yesterday.",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " was"
+	    },
+	    {
+	        "sentence": "They ............. doctors two years ago.",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " Were"
+	    },
+	    {
+	        "sentence": "They ............... farmers last month.",
+	        "options": [" are", " is", " was", " Were"],
+	        "answer": " Were"
+	    },
+	    {
+	        "sentence": "We ....... nurses yesterday.",
+	        "options": [" are", " is", " was", " Were"],
+	        "answer": " Were"
+	    },
+	    {
+	        "sentence": "The weather ........ cold yesterday.",
+	        "options": [" aren’t", " isn’t", " wasn’t", " weren’t"],
+	        "answer": " wasn’t"
+	    },
+	    {
+	        "sentence": "I ......... a pupil last week.",
+	        "options": [" aren’t", " isn’t", " wasn’t", " weren’t"],
+	        "answer": " wasn’t"
+	    },
+	    {
+	        "sentence": "These hats ....... new yesterday.",
+	        "options": [" aren’t", " isn’t", " wasn’t", " weren’t"],
+	        "answer": " wasn’t"
+	    },
+	    {
+	        "sentence": "My parents........ teachers two years ago.",
+	        "options": [" are", " is", " was", " Were"],
+	        "answer": " was"
+	    },
+	    {
+	        "sentence": "He ............. a mechanic last Monday.",
+	        "options": [" aren’t", " is", " wasn’t", " weren’t"],
+	        "answer": " wasn’t"
+	    },
+	    {
+	        "sentence": "... he an engineer yesterday. No, he ......",
+	        "options": [" is/isn’t", " are/aren’t", " was/wasn’t", " were/weren’t"],
+	        "answer": " was/wasn’t"
+	    },
+	    {
+	        "sentence": ".......It hot last week?",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " was"
+	    },
+	    {
+	        "sentence": "The shops ...open last Monday.",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " Were"
+	    },
+	    {
+	        "sentence": ".... you a teacher two years ago? Yes, I......",
+	        "options": [" is/isn’t", " are/aren’t", " were/wasn’t", " was/weren’t"],
+	        "answer": " were/wasn’t"
+	    },
+	    {
+	        "sentence": "Where ......Nam from yesterday?",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " was"
+	    },
+	    {
+	        "sentence": "Why .........they unhappy last Tuesday?",
+	        "options": [" am", " is", " was", " Were"],
+	        "answer": " was"
+	    },
+	    {
+	        "sentence": "I ... your trip to Nha Trang two years ago.",
+	        "options": [" remember", " remembers", " remembered", " remembered"],
+	        "answer": " remembered"
+	    },
+	    {
+	        "sentence": "Ba ........ the cap all day yesterday.",
+	        "options": [" wear", " wears", " weared", " wore"],
+	        "answer": " wore"
+	    },
+	    {
+	        "sentence": "We .......... a lot of fish yesterday.",
+	        "options": [" eated", " ate", " eats", " Eat"],
+	        "answer": " ate"
+	    },
+	    {
+	        "sentence": "Her aunt ......... her to see Cham Temple last year.",
+	        "options": [" taked", " took", " take", " Takes"],
+	        "answer": " took"
+	    },
+	    {
+	        "sentence": "Tuan ......... a new bike yesterday.",
+	        "options": [" haved", " has", " had", " Have"],
+	        "answer": " had"
+	    }
+	],
+	"past continuous":
+	[
+	    {
+	        "sentence": "I lost my keys when I ________ (walk) home.",
+	        "options": [" was walking", " were walking", " had walked"],
+	        "answer": " was walking"
+	    },
+	    {
+	        "sentence": "It was raining while we ________ (have) dinner.",
+	        "options": [" was having", " were having", " had had"],
+	        "answer": " were having"
+	    },
+	    {
+	        "sentence": "I saw the department stores when I ________ (sit) on the bus.",
+	        "options": [" had sat", " were sitting", " was sitting"],
+	        "answer": " was sitting"
+	    },
+	    {
+	        "sentence": "Her phone rang while she ________ (talk) to her new boss.",
+	        "options": [" was talking", " were talking", " had talked"],
+	        "answer": " was talking"
+	    },
+	    {
+	        "sentence": "My friends ________ (drive) to work when they heard the news on the radio.",
+	        "options": [" was driving", " were driving", " had driven"],
+	        "answer": " were driving"
+	    },
+	    {
+	        "sentence": "He ________ (ride) his bicycle when the cat ran across the road.",
+	        "options": [" had ridden", " were riding", " was riding"],
+	        "answer": " was riding"
+	    },
+	    {
+	        "sentence": "We couldn’t go to the beach yesterday because it ________. (rain)",
+	        "options": [" was raining", " were raining", " had rained"],
+	        "answer": " was raining"
+	    },
+	    {
+	        "sentence": "It was a lovely day. The sun was shining and the birds ________ (sing) in the trees.",
+	        "options": [" was singing", " were singing", " had sung"],
+	        "answer": " were singing"
+	    },
+	    {
+	        "sentence": "The tourist lost his camera while he _____ (walk) around the city.",
+	        "options": [" had walked", " were walking", " was walking"],
+	        "answer": " was walking"
+	    },
+	    {
+	        "sentence": "The lorry _____ (go) very fast when it hit our car.",
+	        "options": [" were going", " was going", " had gone"],
+	        "answer": " was going"
+	    },
+	    {
+	        "sentence": "I _______ (walk) down the street when it began to rain.",
+	        "options": [" were walking", " was walking", " had walked"],
+	        "answer": " was walking"
+	    },
+	    {
+	        "sentence": "At this time last year, I _______ (attend) an English course.",
+	        "options": [" was attending", " were attending", " had attended"],
+	        "answer": " was attending"
+	    },
+	    {
+	        "sentence": "Jim ________ (stand) under the tree when he heard an explosion.",
+	        "options": [" had stood", " were standing", " was standing"],
+	        "answer": " was standing"
+	    },
+	    {
+	        "sentence": "While I _____ (study) in my room, my roommates ________ (have) a party in the other room.",
+	        "options": [" was studying, were having", " were studying, were having", " was studying, was having"],
+	        "answer": " were studying, were having"
+	    },
+	    {
+	        "sentence": "Mary and I _________ (dance) the house when the telephone rang.",
+	        "options": [" were dancing", " were dancing", " had danced"],
+	        "answer": " were dancing"
+	    },
+	    {
+	        "sentence": "The teacher _______ (teach) the class when the fire alarm went off.",
+	        "options": [" were teaching", " was teaching", " had taught"],
+	        "answer": " was teaching"
+	    },
+	    {
+	        "sentence": "I _______ (read) a book when the power went out.",
+	        "options": [" were reading", " was reading", " had read"],
+	        "answer": " was reading"
+	    },
+	    {
+	        "sentence": "She _______ (cook) dinner when her friend called.",
+	        "options": [" were cooking", " was cooking", " had cooked"],
+	        "answer": " was cooking"
+	    },
+	    {
+	        "sentence": "They _______ (play) soccer when it started to rain.",
+	        "options": [" were playing", " was playing", " had played"],
+	        "answer": " were playing"
+	    },
+	    {
+	        "sentence": "John _______ (watch) TV when his mother arrived home.",
+	        "options": [" were watching", " was watching", " had watched"],
+	        "answer": " was watching"
+	    },
+	    {
+	        "sentence": "My brother _______ (build) a sandcastle on the beach.",
+	        "options": [" were building", " was building", " had built"],
+	        "answer": " was building"
+	    },
+	    {
+	        "sentence": "She _______ (listen) to music while she did her homework.",
+	        "options": [" were listening", " was listening", " had listened"],
+	        "answer": " was listening"
+	    },
+	    {
+	        "sentence": "I _______ (work) on my computer when it suddenly crashed.",
+	        "options": [" were working", " was working", " had worked"],
+	        "answer": " was working"
+	    },
+	    {
+	        "sentence": "While I _______ (take) a shower, the phone rang.",
+	        "options": [" were taking", " was taking", " had taken"],
+	        "answer": " was taking"
+	    },
+	    {
+	        "sentence": "He _______ (study) for his exam all night.",
+	        "options": [" were studying", " was studying", " had studied"],
+	        "answer": " was studying"
+	    },
+	    {
+	        "sentence": "When I arrived, they _______ (have) a heated discussion about the project.",
+	        "options": [" were having", " was having", " had had"],
+	        "answer": " were having"
+	    },
+	    {
+	        "sentence": "She _______ (sing) beautifully at the concert last night.",
+	        "options": [" were singing", " was singing", " had sung"],
+	        "answer": " was singing"
+	    },
+	    {
+	        "sentence": "I saw him while he _______ (work) in the garden.",
+	        "options": [" were working", " was working", " had worked"],
+	        "answer": " was working"
+	    },
+	    {
+	        "sentence": "As we walked in, the chef _______ (prepare) a delicious meal in the kitchen.",
+	        "options": [" were preparing", " was preparing", " had prepared"],
+	        "answer": " was preparing"
+	    },
+	    {
+	        "sentence": "While they _______ (play) chess, the power went out.",
+	        "options": [" were playing", " was playing", " had played"],
+	        "answer": " were playing"
+	    },
+	    {
+	        "sentence": "While I _______ (wait) for the train, I met an old friend.",
+	        "options": [" were waiting", " was waiting", " had waited"],
+	        "answer": " was waiting"
+	    },
+	    {
+	        "sentence": "The scientists _______ (conduct) experiments all night to gather data.",
+	        "options": [" were conducting", " was conducting", " had conducted"],
+	        "answer": " were conducting"
+	    },
+	    {
+	        "sentence": "While I _______ (sleep), my phone rang.",
+	        "options": [" were sleeping", " was sleeping", " had slept"],
+	        "answer": " was sleeping"
+	    },
+	    {
+	        "sentence": "The workers _______ (repair) the roof during the heavy rain.",
+	        "options": [" were repairing", " was repairing", " had repaired"],
+	        "answer": " were repairing"
+	    },
+	    {
+	        "sentence": "She _______ (study) all night for her final exam.",
+	        "options": [" were studying", " was studying", " had studied"],
+	        "answer": " was studying"
+	    },
+	    {
+	        "sentence": "While I _______ (drive) to the airport, I got stuck in traffic.",
+	        "options": [" were driving", " was driving", " had driven"],
+	        "answer": " was driving"
+	    },
+	    {
+	        "sentence": "He _______ (bake) a cake when the oven broke.",
+	        "options": [" were baking", " was baking", " had baked"],
+	        "answer": " was baking"
+	    },
+	    {
+	        "sentence": "The children _______ (play) in the park when it started to rain.",
+	        "options": [" were playing", " was playing", " had played"],
+	        "answer": " were playing"
+	    },
+	    {
+	        "sentence": "While they _______ (hike) in the mountains, they encountered a bear.",
+	        "options": [" were hiking", " was hiking", " had hiked"],
+	        "answer": " were hiking"
+	    },
+	    {
+	        "sentence": "She _______ (paint) a masterpiece when I visited her art studio.",
+	        "options": [" were painting", " was painting", " had painted"],
+	        "answer": " was painting"
+	    },
+	    {
+	        "sentence": "While we _______ (dine) at the fancy restaurant, the power went out.",
+	        "options": [" were dining", " was dining", " had dined"],
+	        "answer": " were dining"
+	    },
+	    {
+	        "sentence": "The baby _______ (laugh) when his older brother told a joke.",
+	        "options": [" were laughing", " was laughing", " had laughed"],
+	        "answer": " was laughing"
+	    },
+	    {
+	        "sentence": "While I _______ (study) for the exam, I received a phone call from a friend.",
+	        "options": [" were studying", " was studying", " had studied"],
+	        "answer": " was studying"
+	    },
+	    {
+	        "sentence": "He _______ (compose) music when inspiration struck.",
+	        "options": [" were composing", " was composing", " had composed"],
+	        "answer": " was composing"
+	    },
+	    {
+	        "sentence": "The chef _______ (cook) a gourmet meal for the special occasion.",
+	        "options": [" were cooking", " was cooking", " had cooked"],
+	        "answer": " was cooking"
+	    },
+	    {
+	        "sentence": "While they _______ (swim) in the ocean, they spotted a school of dolphins.",
+	        "options": [" were swimming", " was swimming", " had swum"],
+	        "answer": " were swimming"
+	    },
+	    {
+	        "sentence": "The children _______ (play) hide and seek when the thunderstorm began.",
+	        "options": [" were playing", " was playing", " had played"],
+	        "answer": " were playing"
+	    },
+	    {
+	        "sentence": "She _______ (sing) beautifully at the opera last night.",
+	        "options": [" were singing", " was singing", " had sung"],
+	        "answer": " was singing"
+	    },
+	    {
+	        "sentence": "While I _______ (read) a novel, my phone rang.",
+	        "options": [" were reading", " was reading", " had read"],
+	        "answer": " was reading"
+	    }
+	],
+	"past perfect":
+	[
+	    {
+	        "sentence": "The storm destroyed the sandcastle that we _____________",
+	        "options": ["had built ", "built ", "have built "],
+	        "answer": "had built "
+	    },
+	    {
+	        "sentence": "He _____________  to Cape Town before 1997.",
+	        "options": ["had not been ", "has not been ", "had not been "],
+	        "answer": "had not been "
+	    },
+	    {
+	        "sentence": "When she went out to play, she _____________ her homework.",
+	        "options": ["had already done ", "already did ", "had already been doing "],
+	        "answer": "already did "
+	    },
+	    {
+	        "sentence": "My brother ate all of the cake that our mum_____________ .",
+	        "options": ["made ", "had made ", "has made "],
+	        "answer": "had made "
+	    },
+	    {
+	        "sentence": "The doctor took off the plaster that he_____________ .",
+	        "options": ["had put on ", "put on ", "has put on  six weeks before"],
+	        "answer": "had put on "
+	    },
+	    {
+	        "sentence": "The waiter brought a drink that I_____________ .",
+	        "options": ["did not order ", "had not ordered ", "have not ordered "],
+	        "answer": "did not order "
+	    },
+	    {
+	        "sentence": "I could not remember the poem we_____________ .",
+	        "options": ["learned ", "had learned ", "have learned  the week before"],
+	        "answer": "had learned "
+	    },
+	    {
+	        "sentence": "The children collected the chestnuts that_____________  from the tree.",
+	        "options": ["had fallen ", "fell ", "have fallen "],
+	        "answer": "had fallen "
+	    },
+	    {
+	        "sentence": "___________Angie before he went to see her in London?",
+	        "options": ["Did he phone ", "Has he phoned ", "Had he phoned "],
+	        "answer": "Had he phoned "
+	    },
+	    {
+	        "sentence": "She_____________  a horse before that day.",
+	        "options": ["did not ride ", "had not ridden ", "has not ridden "],
+	        "answer": "had not ridden "
+	    },
+	    {
+	        "sentence": "Kevin_____________  home by the time I arrived.",
+	        "options": ["went ", "has gone ", "had gone "],
+	        "answer": "had gone "
+	    },
+	    {
+	        "sentence": "Ethan suddenly realized that he_____________  his laptop on the train.",
+	        "options": ["had left ", "left ", "has left "],
+	        "answer": "had left "
+	    },
+	    {
+	        "sentence": "Mum was annoyed because I_____________ my room.",
+	        "options": ["had not cleaned ", "did not clean ", "have not cleaned "],
+	        "answer": "had not cleaned "
+	    },
+	    {
+	        "sentence": "___________English before they went to the USA?",
+	        "options": ["Had they studied ", "Did they study ", "Have they studied "],
+	        "answer": "Had they studied "
+	    },
+	    {
+	        "sentence": "We were hungry because we_____________ .",
+	        "options": ["had not eaten ", "did not eat ", "have not eaten "],
+	        "answer": "had not eaten "
+	    },
+	    {
+	        "sentence": "She ____________ a book when the power went out.",
+	        "options": ["was reading ", "read ", "had read "],
+	        "answer": "was reading "
+	    },
+	    {
+	        "sentence": "By the time I arrived, they ____________ lunch.",
+	        "options": ["had finished ", "finished ", "have finished "],
+	        "answer": "had finished "
+	    },
+	    {
+	        "sentence": "I ____________ my keys at home this morning.",
+	        "options": ["forgot ", "had forgotten ", "have forgotten "],
+	        "answer": "forgot "
+	    },
+	    {
+	        "sentence": "She ____________ to the gym before work.",
+	        "options": ["went ", "had gone ", "has gone "],
+	        "answer": "had gone "
+	    },
+	    {
+	        "sentence": "They ____________ to the new restaurant in town last week.",
+	        "options": ["went ", "have gone ", "had gone "],
+	        "answer": "had gone "
+	    },
+	    {
+	        "sentence": "I couldn't find my umbrella; I think I ____________ it at the office.",
+	        "options": ["left ", "had left ", "have left "],
+	        "answer": "had left "
+	    },
+	    {
+	        "sentence": "The car wouldn't start because the battery ____________ dead.",
+	        "options": ["was ", "had been ", "has been "],
+	        "answer": "had been "
+	    },
+	    {
+	        "sentence": "He realized he ____________ his phone at home after he arrived at the airport.",
+	        "options": ["forgot ", "had forgotten ", "has forgotten "],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "She ____________ her homework by the time her friends came over.",
+	        "options": ["had finished ", "finished ", "has finished "],
+	        "answer": "had finished "
+	    },
+	    {
+	        "sentence": "I didn't recognize her because she ____________ her hair.",
+	        "options": ["dyed ", "had dyed ", "has dyed "],
+	        "answer": "had dyed "
+	    },
+	    {
+	        "sentence": "He ____________ his lunch before the meeting started.",
+	        "options": ["ate ", "had eaten ", "has eaten "],
+	        "answer": "had eaten "
+	    },
+	    {
+	        "sentence": "She ____________ a new dress for the party.",
+	        "options": ["bought ", "had bought ", "has bought "],
+	        "answer": "had bought "
+	    },
+	    {
+	        "sentence": "The movie had already started by the time we ____________ the theater.",
+	        "options": ["reached ", "had reached ", "have reached "],
+	        "answer": "had reached "
+	    },
+	    {
+	        "sentence": "I ____________ my lunch when the phone rang.",
+	        "options": ["was eating ", "ate ", "had eaten "],
+	        "answer": "was eating "
+	    },
+	    {
+	        "sentence": "The store was closed because it ____________ at 8 PM.",
+	        "options": ["closed ", "had closed ", "has closed "],
+	        "answer": "had closed "
+	    },
+	    {
+	        "sentence": "We didn't go to the beach because it ____________ all day.",
+	        "options": ["rained ", "had rained ", "has rained "],
+	        "answer": "had rained "
+	    },
+	    {
+	        "sentence": "He was exhausted because he ____________ all day.",
+	        "options": ["worked ", "had worked ", "has worked "],
+	        "answer": "had worked "
+	    },
+	    {
+	        "sentence": "She couldn't find her glasses because she ____________ them.",
+	        "options": ["lost ", "had lost ", "has lost "],
+	        "answer": "had lost "
+	    },
+	    {
+	        "sentence": "The concert had already started when we ____________ there.",
+	        "options": ["arrived ", "had arrived ", "have arrived "],
+	        "answer": "had arrived "
+	    },
+	    {
+	        "sentence": "I ____________ my homework last night.",
+	        "options": ["forgot ", "had forgotten ", "have forgotten "],
+	        "answer": "forgot "
+	    },
+	    {
+	        "sentence": "She realized she ____________ her phone at home after she left for work.",
+	        "options": ["forgot ", "had forgotten ", "has forgotten "],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "They ____________ for the trip long before they left.",
+	        "options": ["planned ", "had planned ", "have planned "],
+	        "answer": "had planned "
+	    },
+	    {
+	        "sentence": "I couldn't find my keys because I ____________ them in the car.",
+	        "options": ["left ", "had left ", "have left "],
+	        "answer": "had left "
+	    },
+	    {
+	        "sentence": "The cake was gone because someone ____________ it all.",
+	        "options": ["ate ", "had eaten ", "has eaten "],
+	        "answer": "had eaten "
+	    },
+	    {
+	        "sentence": "We were late because the traffic ____________ for hours.",
+	        "options": ["was jammed ", "had been jammed ", "has been jammed "],
+	        "answer": "had been jammed "
+	    },
+	    {
+	        "sentence": "She ____________ her phone before she realized it was missing.",
+	        "options": ["had dropped ", "dropped ", "has dropped "],
+	        "answer": "had dropped "
+	    },
+	    {
+	        "sentence": "The children ____________ to bed early last night.",
+	        "options": ["went ", "had gone ", "have gone "],
+	        "answer": "had gone "
+	    },
+	    {
+	        "sentence": "The company was already bankrupt when they ____________ a new CEO.",
+	        "options": ["hired ", "had hired ", "have hired "],
+	        "answer": "had hired "
+	    },
+	    {
+	        "sentence": "I ____________ to the store before it closed.",
+	        "options": ["went ", "had gone ", "have gone "],
+	        "answer": "had gone "
+	    },
+	    {
+	        "sentence": "The sun was setting as they ____________ the beach.",
+	        "options": ["reached ", "had reached ", "have reached "],
+	        "answer": "had reached "
+	    }
+	],
+	"past perfect continuous":
+	[
+	    {
+	        "sentence": "By the time she arrived at the party, everyone _______________ for hours.",
+	        "options": ["was dancing ", "has been dancing ", "had been dancing ", "danced (D)"],
+	        "answer": "had been dancing "
+	    },
+	    {
+	        "sentence": "They couldn’t find their keys because they _______________ them all day.",
+	        "options": ["were losing ", "lost ", "had been losing ", "have lost (D)"],
+	        "answer": "had been losing "
+	    },
+	    {
+	        "sentence": "_______________ she finished her homework, she went to bed.",
+	        "options": ["Had ", "Has ", "Did ", "Had been (D)"],
+	        "answer": "Had "
+	    },
+	    {
+	        "sentence": "He was exhausted because he _______________ in the garden all morning.",
+	        "options": ["worked ", "has worked ", "had been working ", "was working (D)"],
+	        "answer": "had been working "
+	    },
+	    {
+	        "sentence": "_______________ she arrived, the movie had already started.",
+	        "options": ["After ", "By the time ", "Until then ", "Prior to that time (D)"],
+	        "answer": "By the time "
+	    },
+	    {
+	        "sentence": "They had been waiting at the airport for two hours _______________ their flight was canceled.",
+	        "options": ["before ", "until then ", "by the time ", "after (D)"],
+	        "answer": "before "
+	    },
+	    {
+	        "sentence": "The chef was relieved because the guests _______________ the meal he had prepared.",
+	        "options": ["were enjoying ", "enjoyed ", "have been enjoying ", "had been enjoying (D)"],
+	        "answer": "had been enjoying (D)"
+	    },
+	    {
+	        "sentence": "She couldn’t walk properly because she _______________ high heels all day.",
+	        "options": ["wears ", "was wearing ", "has worn ", "had been wearing (D)"],
+	        "answer": "had been wearing (D)"
+	    },
+	    {
+	        "sentence": "We had been living in the city _______________ we moved to the countryside.",
+	        "options": ["until then ", "by the time ", "after ", "before (D)"],
+	        "answer": "before (D)"
+	    },
+	    {
+	        "sentence": "_______________ he called me, I had been studying for the exam.",
+	        "options": ["Since ", "By the time ", "Until then ", "After (D)"],
+	        "answer": "By the time "
+	    },
+	    {
+	        "sentence": "She ____________ her lunch by the time I arrived.",
+	        "options": ["had finished ", "finished ", "has finished ", "finishes (D)"],
+	        "answer": "had finished "
+	    },
+	    {
+	        "sentence": "They ____________ the game before it started raining.",
+	        "options": ["had played ", "played ", "have played ", "playing (D)"],
+	        "answer": "had played "
+	    },
+	    {
+	        "sentence": "We realized we ____________ our keys at home after we left for the trip.",
+	        "options": ["forgot ", "had forgotten ", "have forgotten ", "forgets (D)"],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "The children ____________ the ice cream before it melted.",
+	        "options": ["ate ", "had eaten ", "have eaten ", "eating (D)"],
+	        "answer": "ate "
+	    },
+	    {
+	        "sentence": "He ____________ for an hour before he gave up.",
+	        "options": ["waited ", "had waited ", "have waited ", "waits (D)"],
+	        "answer": "had waited "
+	    },
+	    {
+	        "sentence": "_______________ she heard the news, she couldn't stop crying.",
+	        "options": ["After ", "Once ", "Until then ", "Before (D)"],
+	        "answer": "Once "
+	    },
+	    {
+	        "sentence": "The concert was amazing. They ____________ for hours.",
+	        "options": ["were playing ", "played ", "had been playing ", "have played (D)"],
+	        "answer": "had been playing "
+	    },
+	    {
+	        "sentence": "We couldn't go for a walk because it ____________ all day.",
+	        "options": ["rains ", "had rained ", "has rained ", "was raining (D)"],
+	        "answer": "was raining (D)"
+	    },
+	    {
+	        "sentence": "She was so tired because she ____________ a marathon.",
+	        "options": ["ran ", "had run ", "has run ", "running (D)"],
+	        "answer": "had run "
+	    },
+	    {
+	        "sentence": "_______________ he arrived, the party was in full swing.",
+	        "options": ["After ", "Until then ", "By the time ", "Before (D)"],
+	        "answer": "By the time "
+	    },
+	    {
+	        "sentence": "She couldn't find her phone because she ____________ it in the car.",
+	        "options": ["left ", "had left ", "has left ", "leaves (D)"],
+	        "answer": "had left "
+	    },
+	    {
+	        "sentence": "The cake was delicious. Everyone ____________ a slice.",
+	        "options": ["had ", "has ", "have ", "had had (D)"],
+	        "answer": "had "
+	    },
+	    {
+	        "sentence": "They couldn't watch the game because the TV ____________.",
+	        "options": ["was broken ", "had broken ", "has broken ", "breaks (D)"],
+	        "answer": "was broken "
+	    },
+	    {
+	        "sentence": "The car ____________ for hours before we fixed it.",
+	        "options": ["broke down ", "had broken down ", "has broken down ", "breaks down (D)"],
+	        "answer": "had broken down "
+	    },
+	    {
+	        "sentence": "He ____________ his phone at home and had to go back to get it.",
+	        "options": ["forgot ", "had forgotten ", "forgets ", "has forgotten (D)"],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "They ____________ the entire day cleaning the house.",
+	        "options": ["spent ", "had spent ", "have spent ", "spends (D)"],
+	        "answer": "had spent "
+	    },
+	    {
+	        "sentence": "The students ____________ their homework before the teacher checked it.",
+	        "options": ["finished ", "had finished ", "have finished ", "finishes (D)"],
+	        "answer": "had finished "
+	    },
+	    {
+	        "sentence": "We couldn't get a table at the restaurant because it ____________ full.",
+	        "options": ["is ", "was ", "had been ", "has been (D)"],
+	        "answer": "was "
+	    },
+	    {
+	        "sentence": "He ____________ his coffee before he left for work.",
+	        "options": ["drank ", "had drunk ", "has drunk ", "drinks (D)"],
+	        "answer": "had drunk "
+	    },
+	    {
+	        "sentence": "The movie was great. They ____________ it twice.",
+	        "options": ["watched ", "had watched ", "have watched ", "watches (D)"],
+	        "answer": "had watched "
+	    },
+	    {
+	        "sentence": "_______________ she left, she turned off all the lights.",
+	        "options": ["Before ", "Once ", "After ", "Until then (D)"],
+	        "answer": "Before "
+	    },
+	    {
+	        "sentence": "The cat ____________ a bird before it was chased away.",
+	        "options": ["caught ", "had caught ", "has caught ", "catches (D)"],
+	        "answer": "had caught "
+	    },
+	    {
+	        "sentence": "She ____________ her book on the bus yesterday.",
+	        "options": ["left ", "had left ", "leaves ", "has left (D)"],
+	        "answer": "left "
+	    },
+	    {
+	        "sentence": "They ____________ for their friends for hours before they gave up.",
+	        "options": ["were waiting ", "had been waiting ", "have been waiting ", "waits (D)"],
+	        "answer": "had been waiting "
+	    },
+	    {
+	        "sentence": "_______________ they came, the food was getting cold.",
+	        "options": ["After ", "Until then ", "By the time ", "Before (D)"],
+	        "answer": "Before (D)"
+	    },
+	    {
+	        "sentence": "The kids ____________ their toys everywhere.",
+	        "options": ["left ", "had left ", "leave ", "have left (D)"],
+	        "answer": "left "
+	    },
+	    {
+	        "sentence": "The meeting ____________ when he arrived.",
+	        "options": ["was ending ", "had ended ", "ends ", "has ended (D)"],
+	        "answer": "had ended "
+	    },
+	    {
+	        "sentence": "She ____________ her phone before she realized it was missing.",
+	        "options": ["forgot ", "had forgotten ", "has forgotten ", "forgets (D)"],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "_______________ they called, I had already made plans.",
+	        "options": ["Since ", "After ", "By the time ", "Until then (D)"],
+	        "answer": "By the time "
+	    },
+	    {
+	        "sentence": "He ____________ his coffee before he left for work.",
+	        "options": ["drank ", "had drunk ", "has drunk ", "drinks (D)"],
+	        "answer": "had drunk "
+	    },
+	    {
+	        "sentence": "She ____________ a new dress for the party.",
+	        "options": ["bought ", "had bought ", "has bought ", "buys (D)"],
+	        "answer": "had bought "
+	    },
+	    {
+	        "sentence": "The sun had set by the time they ____________ the beach.",
+	        "options": ["reached ", "had reached ", "have reached ", "reaches (D)"],
+	        "answer": "had reached "
+	    },
+	    {
+	        "sentence": "The store was closed because it ____________ at 8 PM.",
+	        "options": ["closed ", "had closed ", "has closed ", "closes (D)"],
+	        "answer": "had closed "
+	    },
+	    {
+	        "sentence": "We were hungry because we ____________.",
+	        "options": ["had not eaten ", "did not eat ", "have not eaten ", "don't eat (D)"],
+	        "answer": "had not eaten "
+	    },
+	    {
+	        "sentence": "She ____________ her keys in the car and locked herself out.",
+	        "options": ["forgot ", "had forgotten ", "forgets ", "has forgotten (D)"],
+	        "answer": "had forgotten "
+	    },
+	    {
+	        "sentence": "They ____________ the city before they moved to the countryside.",
+	        "options": ["had not left ", "did not leave ", "have not left ", "don't leave (D)"],
+	        "answer": "had not left "
+	    },
+	    {
+	        "sentence": "He ____________ a horse before that day.",
+	        "options": ["did not ride ", "had not ridden ", "has not ridden ", "doesn't ride (D)"],
+	        "answer": "had not ridden "
+	    },
+	    {
+	        "sentence": "Ethan suddenly realized that he ____________ his laptop on the train.",
+	        "options": ["had left ", "left ", "has left ", "leaves (D)"],
+	        "answer": "had left "
+	    },
+	    {
+	        "sentence": "Mum was annoyed because I ____________ my room.",
+	        "options": ["had not cleaned ", "did not clean ", "have not cleaned ", "don't clean (D)"],
+	        "answer": "had not cleaned "
+	    },
+	    {
+	        "sentence": "_______________ they studied English before they went to the USA?",
+	        "options": ["Had they not studied ", "Did they not study ", "Have they not studied ", "Don't they study (D)"],
+	        "answer": "Had they not studied "
+	    },
+	    {
+	        "sentence": "I couldn't remember the poem we ____________ the week before.",
+	        "options": ["learned ", "had learned ", "have learned ", "learn (D)"],
+	        "answer": "had learned "
+	    },
+	    {
+	        "sentence": "The children collected the chestnuts that ____________ from the tree.",
+	        "options": ["had fallen ", "fell ", "have fallen ", "fall (D)"],
+	        "answer": "had fallen "
+	    }
+	],
+	"simple future":
+	[
+	    {
+	        "sentence": "He _____ arrive on time.",
+	        "options": ["will ", "is ", "not "],
+	        "answer": "will "
+	    },
+	    {
+	        "sentence": "Will your folks _____ before Tuesday?",
+	        "options": ["leaving ", "leave ", "leaves "],
+	        "answer": "leave "
+	    },
+	    {
+	        "sentence": "We _____ get there until after dark.",
+	        "options": ["will ", "won’t ", "will’nt "],
+	        "answer": "won’t "
+	    },
+	    {
+	        "sentence": "We will _____ what your father says.",
+	        "options": ["see ", "to see ", "seeing "],
+	        "answer": "see "
+	    },
+	    {
+	        "sentence": "I don’t ________ go swimming today.",
+	        "options": ["think I ", "think I’ll ", "thinking "],
+	        "answer": "think I’ll "
+	    },
+	    {
+	        "sentence": "It ________ tomorrow.",
+	        "options": ["will snow ", "snows ", "is snowing "],
+	        "answer": "will snow "
+	    },
+	    {
+	        "sentence": "We won’t ________ until we get there.",
+	        "options": ["knowing ", "have know ", "know "],
+	        "answer": "know "
+	    },
+	    {
+	        "sentence": "I ________ back before Friday.",
+	        "options": ["‘ll be ", "will ", "am being "],
+	        "answer": "‘ll be "
+	    },
+	    {
+	        "sentence": "Will you _____ at the rehearsal on Saturday?",
+	        "options": ["go ", "be ", "have "],
+	        "answer": "be "
+	    },
+	    {
+	        "sentence": "I’m going to the grocery store. I think _____ buy a turkey.",
+	        "options": ["I’ve ", "I’ll ", "I’d "],
+	        "answer": "I’ll "
+	    },
+	    {
+	        "sentence": "She _____ her best to finish the project on time.",
+	        "options": ["will ", "is ", "was ", "did (D)"],
+	        "answer": "did (D)"
+	    },
+	    {
+	        "sentence": "_____ you help me with this task?",
+	        "options": ["Shall ", "Will ", "Are ", "Have (D)"],
+	        "answer": "Will "
+	    },
+	    {
+	        "sentence": "I _____ call you later today.",
+	        "options": ["might ", "can ", "shall ", "will (D)"],
+	        "answer": "will (D)"
+	    },
+	    {
+	        "sentence": "We _____ have a meeting at 3 PM.",
+	        "options": ["should ", "ought to ", "will ", "would (D)"],
+	        "answer": "will "
+	    },
+	    {
+	        "sentence": "_____ you attend the conference next week?",
+	        "options": ["Shall ", "Can ", "Will ", "Have (D)"],
+	        "answer": "Will "
+	    },
+	    {
+	        "sentence": "She _____ speak three languages fluently.",
+	        "options": ["might ", "can ", "shall ", "will (D)"],
+	        "answer": "can "
+	    },
+	    {
+	        "sentence": "They _____ get married next month.",
+	        "options": ["might ", "should ", "will ", "would (D)"],
+	        "answer": "will "
+	    },
+	    {
+	        "sentence": "_____ you please pass me the salt?",
+	        "options": ["Might ", "Could ", "Can ", "Will (D)"],
+	        "answer": "Could "
+	    },
+	    {
+	        "sentence": "I _____ arrive at the airport early to catch my flight.",
+	        "options": ["must ", "should ", "shall ", "will (D)"],
+	        "answer": "must "
+	    },
+	    {
+	        "sentence": "We _____ definitely visit that museum when we're in town.",
+	        "options": ["can ", "might ", "shall ", "will (D)"],
+	        "answer": "will (D)"
+	    },
+	    {
+	        "sentence": "Tomorrow I ________ (paint) all day.",
+	        "options": ["will be painting ", "will paint ", "will be paint "],
+	        "answer": "will be painting "
+	    },
+	    {
+	        "sentence": "By the time we get there, the store ________ (close).",
+	        "options": ["will close ", "will have closed ", "closed "],
+	        "answer": "will have closed "
+	    },
+	    {
+	        "sentence": "I ________ (see) you tomorrow at 3:00 PM.",
+	        "options": ["will see ", "see ", "will be seeing "],
+	        "answer": "will see "
+	    },
+	    {
+	        "sentence": "After we finish this video, I ________ (see) all of this director’s movies.",
+	        "options": ["will see ", "will be seeing ", "will have seen "],
+	        "answer": "will have seen "
+	    },
+	    {
+	        "sentence": "P1: Can I come over in an hour? P2: No, I ________ (clean) the house.",
+	        "options": ["will clean ", "will be cleaning ", "clean "],
+	        "answer": "will be cleaning "
+	    },
+	    {
+	        "sentence": "This time next week I ________ (drink) wine in Argentina.",
+	        "options": ["will drink ", "drink ", "will be drinking "],
+	        "answer": "will be drinking "
+	    },
+	    {
+	        "sentence": "She doesn’t realize what kind of person he is, but she ________ (find out).",
+	        "options": ["will find out ", "will be finding out ", "will have found out "],
+	        "answer": "will find out "
+	    },
+	    {
+	        "sentence": "She insulted me. I ________ (speak) to her again!",
+	        "options": ["will never speak ", "will never be speaking ", "will have never spoken "],
+	        "answer": "will never speak "
+	    },
+	    {
+	        "sentence": "If he continues drinking so fast, he ________ (drink) the whole bottle by midnight.",
+	        "options": ["will drink ", "will have drunk ", "will be drinking "],
+	        "answer": "will have drunk "
+	    },
+	    {
+	        "sentence": "She ________ (tell) me when her birthday is.",
+	        "options": ["will not have told ", "will not be telling ", "won’t tell "],
+	        "answer": "won’t tell "
+	    },
+	    {
+	        "sentence": "The sun ________ (shine) when I wake up tomorrow.",
+	        "options": ["will shine ", "will be shining ", "shines "],
+	        "answer": "will shine "
+	    },
+	    {
+	        "sentence": "When I get home, I ________ (cook) dinner.",
+	        "options": ["will cook ", "will be cooking ", "cooks "],
+	        "answer": "will be cooking "
+	    },
+	    {
+	        "sentence": "I ________ (visit) my grandparents next weekend.",
+	        "options": ["will visit ", "will be visiting ", "visits "],
+	        "answer": "will visit "
+	    },
+	    {
+	        "sentence": "They ________ (finish) the project by the end of the week.",
+	        "options": ["will finish ", "will be finishing ", "finishes "],
+	        "answer": "will finish "
+	    },
+	    {
+	        "sentence": "By the time you arrive, I ________ (read) the book.",
+	        "options": ["will read ", "will be reading ", "reads "],
+	        "answer": "will have read "
+	    },
+	    {
+	        "sentence": "I hope I ________ (win) the lottery someday.",
+	        "options": ["will win ", "will be winning ", "wins "],
+	        "answer": "will win "
+	    },
+	    {
+	        "sentence": "She ________ (study) for her exam all night.",
+	        "options": ["will study ", "will be studying ", "studies "],
+	        "answer": "will be studying "
+	    },
+	    {
+	        "sentence": "They ________ (have) a party next weekend.",
+	        "options": ["will have ", "will be having ", "has "],
+	        "answer": "will be having "
+	    },
+	    {
+	        "sentence": "By the time I finish this course, I ________ (learn) a lot.",
+	        "options": ["will learn ", "will be learning ", "learns "],
+	        "answer": "will have learned "
+	    },
+	    {
+	        "sentence": "He ________ (exercise) at the gym every day.",
+	        "options": ["will exercise ", "will be exercising ", "exercises "],
+	        "answer": "exercises "
+	    },
+	    {
+	        "sentence": "I ________ (see) my friends later today.",
+	        "options": ["will see ", "will be seeing ", "sees "],
+	        "answer": "will be seeing "
+	    },
+	    {
+	        "sentence": "We ________ (travel) to a new country next summer.",
+	        "options": ["will travel ", "will be traveling ", "travels "],
+	        "answer": "will be traveling "
+	    },
+	    {
+	        "sentence": "She ________ (write) a novel in the future.",
+	        "options": ["will write ", "will be writing ", "writes "],
+	        "answer": "will write "
+	    },
+	    {
+	        "sentence": "We ________ (meet) at the cafe this evening.",
+	        "options": ["will meet ", "will be meeting ", "meets "],
+	        "answer": "will be meeting "
+	    },
+	    {
+	        "sentence": "He ________ (dance) at the party tomorrow night.",
+	        "options": ["will dance ", "will be dancing ", "dances "],
+	        "answer": "will be dancing "
+	    },
+	    {
+	        "sentence": "They ________ (sing) at the concert next week.",
+	        "options": ["will sing ", "will be singing ", "sings "],
+	        "answer": "will be singing "
+	    },
+	    {
+	        "sentence": "I ________ (take) a vacation in a few months.",
+	        "options": ["will take ", "will be taking ", "takes "],
+	        "answer": "will be taking "
+	    },
+	    {
+	        "sentence": "The baby ________ (sleep) through the night soon.",
+	        "options": ["will sleep ", "will be sleeping ", "sleeps "],
+	        "answer": "will be sleeping "
+	    },
+	    {
+	        "sentence": "She ________ (teach) a new class in the coming semester.",
+	        "options": ["will teach ", "will be teaching ", "teaches "],
+	        "answer": "will teach "
+	    },
+	    {
+	        "sentence": "We ________ (build) a new house next year.",
+	        "options": ["will build ", "will be building ", "builds "],
+	        "answer": "will build "
+	    }
+	],
+	"future perfect":
+	[
+	    {
+	        "sentence": "Tomorrow I ________ (paint) all day.",
+	        "options": ["will be painting ", "will paint ", "will be paint "],
+	        "answer": "will be painting "
+	    },
+	    {
+	        "sentence": "By the time we get there, the store ________ (close).",
+	        "options": ["will close ", "will have closed ", "closed "],
+	        "answer": "will have closed "
+	    },
+	    {
+	        "sentence": "I ________ (see) you tomorrow at 3:00 PM.",
+	        "options": ["will see ", "see ", "will be seeing "],
+	        "answer": "will see "
+	    },
+	    {
+	        "sentence": "After we finish this video, I ________ (see) all of this director’s movies.",
+	        "options": ["will see ", "will be seeing ", "will have seen "],
+	        "answer": "will have seen "
+	    },
+	    {
+	        "sentence": "P1: Can I come over in an hour? P2: No, I ________ (clean) the house.",
+	        "options": ["will clean ", "will be cleaning ", "clean "],
+	        "answer": "will be cleaning "
+	    },
+	    {
+	        "sentence": "This time next week I ________ (drink) wine in Argentina.",
+	        "options": ["will drink ", "drink ", "will be drinking "],
+	        "answer": "will be drinking "
+	    },
+	    {
+	        "sentence": "She doesn’t realize what kind of person he is, but she ________ (find out).",
+	        "options": ["will find out ", "will be finding out ", "will have found out "],
+	        "answer": "will find out "
+	    },
+	    {
+	        "sentence": "She insulted me. I ________ (speak) to her again!",
+	        "options": ["will never speak ", "will never be speaking ", "will have never spoken "],
+	        "answer": "will never speak "
+	    },
+	    {
+	        "sentence": "If he continues drinking so fast, he ________ (drink) the whole bottle by midnight.",
+	        "options": ["will drink ", "will have drunk ", "will be drinking "],
+	        "answer": "will have drunk "
+	    },
+	    {
+	        "sentence": "She ________ (tell) me when her birthday is.",
+	        "options": ["will not have told ", "will not be telling ", "won’t tell "],
+	        "answer": "won’t tell "
+	    },
+	    {
+	        "sentence": "The dog ________ (bark) loudly every night.",
+	        "options": ["will bark ", "will be barking ", "barks "],
+	        "answer": "barks "
+	    },
+	    {
+	        "sentence": "We ________ (have) a picnic this weekend.",
+	        "options": ["will have ", "will be having ", "has "],
+	        "answer": "will have "
+	    },
+	    {
+	        "sentence": "She ________ (play) the piano at the concert next month.",
+	        "options": ["will play ", "will be playing ", "plays "],
+	        "answer": "will be playing "
+	    },
+	    {
+	        "sentence": "They ________ (start) the project in two days.",
+	        "options": ["will start ", "will be starting ", "starts "],
+	        "answer": "will start "
+	    },
+	    {
+	        "sentence": "I ________ (visit) my grandparents every summer.",
+	        "options": ["will visit ", "will be visiting ", "visits "],
+	        "answer": "will visit "
+	    },
+	    {
+	        "sentence": "By the time I graduate, I ________ (study) for four years.",
+	        "options": ["will study ", "will be studying ", "studies "],
+	        "answer": "will have studied "
+	    },
+	    {
+	        "sentence": "She ________ (swim) in the ocean this afternoon.",
+	        "options": ["will swim ", "will be swimming ", "swims "],
+	        "answer": "will be swimming "
+	    },
+	    {
+	        "sentence": "I ________ (run) a marathon next year.",
+	        "options": ["will run ", "will be running ", "runs "],
+	        "answer": "will run "
+	    },
+	    {
+	        "sentence": "They ________ (build) a new house in a few months.",
+	        "options": ["will build ", "will be building ", "builds "],
+	        "answer": "will be building "
+	    },
+	    {
+	        "sentence": "I ________ (read) a book by the time you arrive.",
+	        "options": ["will read ", "will be reading ", "reads "],
+	        "answer": "will have read "
+	    },
+	    {
+	        "sentence": "He ________ (eat) dinner at 7 PM.",
+	        "options": ["will eat ", "will be eating ", "eats "],
+	        "answer": "eats "
+	    },
+	    {
+	        "sentence": "By the time I get home, she ________ (prepare) dinner.",
+	        "options": ["will prepare ", "will be preparing ", "prepares "],
+	        "answer": "will have prepared "
+	    },
+	    {
+	        "sentence": "We ________ (watch) a movie tonight.",
+	        "options": ["will watch ", "will be watching ", "watches "],
+	        "answer": "will be watching "
+	    },
+	    {
+	        "sentence": "I ________ (buy) a new car next year.",
+	        "options": ["will buy ", "will be buying ", "buys "],
+	        "answer": "will be buying "
+	    },
+	    {
+	        "sentence": "She ________ (teach) English at the school next semester.",
+	        "options": ["will teach ", "will be teaching ", "teaches "],
+	        "answer": "will be teaching "
+	    },
+	    {
+	        "sentence": "He ________ (travel) to Europe next summer.",
+	        "options": ["will travel ", "will be traveling ", "travels "],
+	        "answer": "will be traveling "
+	    },
+	    {
+	        "sentence": "They ________ (attend) the conference next month.",
+	        "options": ["will attend ", "will be attending ", "attends "],
+	        "answer": "will attend "
+	    },
+	    {
+	        "sentence": "I ________ (write) a letter to my friend today.",
+	        "options": ["will write ", "will be writing ", "writes "],
+	        "answer": "will be writing "
+	    },
+	    {
+	        "sentence": "By the time they arrive, we ________ (set up) the equipment.",
+	        "options": ["will set up ", "will be setting up ", "sets up "],
+	        "answer": "will have set up "
+	    },
+	    {
+	        "sentence": "We ________ (celebrate) our anniversary next week.",
+	        "options": ["will celebrate ", "will be celebrating ", "celebrates "],
+	        "answer": "will be celebrating "
+	    },
+	    {
+	        "sentence": "I ________ (play) soccer this weekend.",
+	        "options": ["will play ", "will be playing ", "plays "],
+	        "answer": "will be playing "
+	    },
+	    {
+	        "sentence": "She ________ (work) on her thesis for a year.",
+	        "options": ["will work ", "will be working ", "works "],
+	        "answer": "will have worked "
+	    },
+	    {
+	        "sentence": "I ________ (help) you with your project tomorrow.",
+	        "options": ["will help ", "will be helping ", "helps "],
+	        "answer": "will help "
+	    },
+	    {
+	        "sentence": "They ________ (dance) at the wedding next weekend.",
+	        "options": ["will dance ", "will be dancing ", "dances "],
+	        "answer": "will be dancing "
+	    },
+	    {
+	        "sentence": "By the time I get there, they ________ (finish) the race.",
+	        "options": ["will finish ", "will be finishing ", "finishes "],
+	        "answer": "will have finished "
+	    },
+	    {
+	        "sentence": "We ________ (buy) a new house in two years.",
+	        "options": ["will buy ", "will be buying ", "buys "],
+	        "answer": "will buy "
+	    },
+	    {
+	        "sentence": "She ________ (open) her own business next year.",
+	        "options": ["will open ", "will be opening ", "opens "],
+	        "answer": "will open "
+	    },
+	    {
+	        "sentence": "I ________ (read) a good book this weekend.",
+	        "options": ["will read ", "will be reading ", "reads "],
+	        "answer": "will be reading "
+	    },
+	    {
+	        "sentence": "They ________ (prepare) for the exam all night.",
+	        "options": ["will prepare ", "will be preparing ", "prepares "],
+	        "answer": "will be preparing "
+	    },
+	    {
+	        "sentence": "I ________ (buy) a new phone soon.",
+	        "options": ["will buy ", "will be buying ", "buys "],
+	        "answer": "will buy "
+	    },
+	    {
+	        "sentence": "By the time she arrives, we ________ (set up) the stage.",
+	        "options": ["will set up ", "will be setting up ", "sets up "],
+	        "answer": "will have set up "
+	    }
+	],
+	"future continuous":
+	[
+		{
+	        "sentence": "I ________ during rush hour.",
+	        "options": ["will be driving ", "will have drive ", "will be drive "],
+	        "answer": "will be driving "
+	    },
+	    {
+	        "sentence": "He will not be _____ the bus today.",
+	        "options": ["take ", "taken ", "taking "],
+	        "answer": "taking "
+	    },
+	    {
+	        "sentence": "They ________ the cottage that weekend.",
+	        "options": ["using ", "‘ll be using ", "‘re be using "],
+	        "answer": "‘ll be using "
+	    },
+	    {
+	        "sentence": "Nigel _____ be coming to the picnic.",
+	        "options": ["won’t ", "won’t not ", "willn’t "],
+	        "answer": "won’t "
+	    },
+	    {
+	        "sentence": "Where ________ sleeping?",
+	        "options": ["you be ", "will you ", "will you be "],
+	        "answer": "will you be "
+	    },
+	    {
+	        "sentence": "We’ll be ________ the news at 10pm.",
+	        "options": ["watch ", "watching ", "to watch "],
+	        "answer": "watching "
+	    },
+	    {
+	        "sentence": "I’ll try my best to spot you. What ________ wearing?",
+	        "options": ["will you ", "will ", "will you be "],
+	        "answer": "will you be "
+	    },
+	    {
+	        "sentence": "Don’t forget your snowpants. It ________ by the time you get to school.",
+	        "options": ["will snowing ", "is snowing ", "will be snowing "],
+	        "answer": "will be snowing "
+	    },
+	    {
+	        "sentence": "At noon tomorrow, I ________ on a beach somewhere.",
+	        "options": ["‘ll be relaxing ", "relax ", "will being relax "],
+	        "answer": "‘ll be relaxing "
+	    },
+	    {
+	        "sentence": "Sorry, I can’t. I ________ my daughter to work at that time.",
+	        "options": ["will be taking ", "‘ll take ", "won’t be take "],
+	        "answer": "will be taking "
+	    },
+	    {
+	        "sentence": "______ we ______  in the office at 7 o’clock tomorrow?",
+	        "options": ["Is / sitting ", "Are / sit ", "Will / be sitting ", "Was / sat (d)"],
+	        "answer": "Will / be sitting "
+	    },
+	    {
+	        "sentence": "______  he ______  a meeting at this time tomorrow?",
+	        "options": ["Does / have ", "Will / had ", "Is / have ", "Will / be having (d)"],
+	        "answer": "Will / be having (d)"
+	    },
+	    {
+	        "sentence": "______  you ______ , when I come?",
+	        "options": ["Are / relaxed ", "Will / relaxed ", "Do / relaxing ", "Will / be relaxing (d)"],
+	        "answer": "Will / be relaxing (d)"
+	    },
+	    {
+	        "sentence": "______  Jacob ______  home at this moment tomorrow?",
+	        "options": ["Was / drive ", "Will / drove ", "Is / driving ", "Will / be driving (d)"],
+	        "answer": "Will / be driving (d)"
+	    },
+	    {
+	        "sentence": "What ______  we ______  at night?",
+	        "options": ["Will / watch ", "Do / watched ", "Are / watch ", "Will / be watching (d)"],
+	        "answer": "Will / be watching (d)"
+	    },
+	    {
+	        "sentence": "Where ______  the basketball fans ______ , when the match finishes?",
+	        "options": ["Did / went ", "Will / go ", "Does / going ", "Will / be going (d)"],
+	        "answer": "Will / be going (d)"
+	    },
+	    {
+	        "sentence": "What ______  your grandfather ______  at this time tomorrow?",
+	        "options": ["Will / plant ", "Does / planted ", "Is / planting ", "Will / be planting (d)"],
+	        "answer": "Will / be planting (d)"
+	    },
+	    {
+	        "sentence": "Where ______  they ______  at 10 o’clock tomorrow?",
+	        "options": ["Does / relax ", "Are / relaxed ", "Will / relaxing ", "Will / be relaxing (d)"],
+	        "answer": "Will / be relaxing (d)"
+	    },
+	    {
+	        "sentence": "______ they ______  to the party next weekend?",
+	        "options": ["Do / go ", "Will / go ", "Does / going ", "Will / be going (d)"],
+	        "answer": "Will / be going (d)"
+	    },
+	    {
+	        "sentence": "What time ______  you ______  lunch tomorrow?",
+	        "options": ["Are / have ", "Will / had ", "Does / having ", "Will / be having (d)"],
+	        "answer": "Will / be having (d)"
+	    },
+	    {
+	        "sentence": "______ she ______  the marathon next year?",
+	        "options": ["Does / running ", "Will / run ", "Is / runs ", "Will / be running (d)"],
+	        "answer": "Will / be running (d)"
+	    },
+	    {
+	        "sentence": "When you call me, I ________ a movie.",
+	        "options": ["will be watching ", "will watch ", "watched "],
+	        "answer": "will be watching "
+	    },
+	    {
+	        "sentence": "What ________ the children ________ at the playground when we arrive?",
+	        "options": ["will / doing ", "do / do ", "will / be doing "],
+	        "answer": "will / be doing "
+	    },
+	    {
+	        "sentence": "______ you ________ your homework by the time I come back?",
+	        "options": ["Do / finish ", "Will / have finished ", "Did / finish "],
+	        "answer": "Will / have finished "
+	    },
+	    {
+	        "sentence": "The sun ________ by the time we reach the beach.",
+	        "options": ["will have set ", "will set ", "sets "],
+	        "answer": "will have set "
+	    },
+	    {
+	        "sentence": "I ________ on the phone when you arrive.",
+	        "options": ["will talk ", "talked ", "will be talking "],
+	        "answer": "will be talking "
+	    },
+	    {
+	        "sentence": "By the time she wakes up, I ________ breakfast.",
+	        "options": ["will have ", "will be having ", "am having "],
+	        "answer": "will be having "
+	    },
+	    {
+	        "sentence": "We ________ for the bus when it starts raining.",
+	        "options": ["will wait ", "waited ", "will be waiting "],
+	        "answer": "will be waiting "
+	    },
+	    {
+	        "sentence": "______ she ______  to the concert next week?",
+	        "options": ["Did / go ", "Will / go ", "Does / going ", "Will / be going (d)"],
+	        "answer": "Will / be going (d)"
+	    },
+	    {
+	        "sentence": "What time ______  you ______  dinner tomorrow?",
+	        "options": ["Are / have ", "Will / had ", "Does / having ", "Will / be having (d)"],
+	        "answer": "Will / be having (d)"
+	    },
+	    {
+	        "sentence": "______ he ______  his driver's license next year?",
+	        "options": ["Does / get ", "Will / get ", "Is / getting ", "Will / be getting (d)"],
+	        "answer": "Will / be getting (d)"
+	    },
+	    {
+	        "sentence": "When you visit, I ________ a meeting.",
+	        "options": ["will be attending ", "will attend ", "attended "],
+	        "answer": "will be attending "
+	    },
+	    {
+	        "sentence": "What ________ the students ________ in the classroom when the bell rings?",
+	        "options": ["will / do ", "do / doing ", "will / be doing "],
+	        "answer": "will / be doing "
+	    },
+	    {
+	        "sentence": "______ you ________ your homework before the teacher checks it?",
+	        "options": ["Do / complete ", "Will / have completed ", "Did / complete "],
+	        "answer": "Will / have completed "
+	    },
+	    {
+	        "sentence": "The stars ________ when we reach the observatory.",
+	        "options": ["will have appeared ", "will appear ", "appeared "],
+	        "answer": "will have appeared "
+	    },
+	    {
+	        "sentence": "I ________ on the computer when you come back.",
+	        "options": ["will work ", "worked ", "will be working "],
+	        "answer": "will be working "
+	    },
+	    {
+	        "sentence": "By the time she gets home, I ________ dinner.",
+	        "options": ["will have cooked ", "will be cooking ", "am cooking "],
+	        "answer": "will have cooked "
+	    },
+	    {
+	        "sentence": "We ________ for the bus when it starts snowing.",
+	        "options": ["will wait ", "waited ", "will be waiting "],
+	        "answer": "will be waiting "
+	    }
+	],
+	"future perfect continuous":
+	[
+	    {
+	        "sentence": "Mary wants to speak with you. – Please tell her that I ______ her as soon as I’m free.",
+	        "options": ["will call ", "will have called ", "will have been calling "],
+	        "answer": "will call "
+	    },
+	    {
+	        "sentence": "Let’s meet at eleven o’clock tomorrow. – Sorry, I _____ at eleven o’clock.",
+	        "options": ["will be working ", "will have worked ", "will have been working "],
+	        "answer": "will be working "
+	    },
+	    {
+	        "sentence": "Say goodbye to Ann now. By the time you return, she ______ for New York.",
+	        "options": ["will be leaving ", "will have left ", "will have been leaving "],
+	        "answer": "will have left "
+	    },
+	    {
+	        "sentence": "By 2020, he ______ as the director of this company for thirty years.",
+	        "options": ["will work ", "will be working ", "will have been working "],
+	        "answer": "will have been working "
+	    },
+	    {
+	        "sentence": "Why don’t you ask Jim for help? I’m sure that he _____ you.",
+	        "options": ["will help ", "will have helped ", "will have been helping "],
+	        "answer": "will help "
+	    },
+	    {
+	        "sentence": "Please don’t ring the doorbell when you get here. My baby ______.",
+	        "options": ["will be sleeping ", "will have slept ", "will have been sleeping "],
+	        "answer": "will be sleeping "
+	    },
+	    {
+	        "sentence": "Where are you going to spend your vacation? – I don’t know yet. Maybe we _____  to Italy next summer.",
+	        "options": ["will go ", "will have gone ", "will have been going "],
+	        "answer": "will go "
+	    },
+	    {
+	        "sentence": "She promised that she ______ him about it.",
+	        "options": ["won’t tell ", "wouldn’t tell ", "won’t have told "],
+	        "answer": "wouldn’t tell "
+	    },
+	    {
+	        "sentence": "Oh, you’ll recognize him. He ____ a brown leather jacket and a red scarf.",
+	        "options": ["will be wearing ", "will have worn ", "will have been wearing "],
+	        "answer": "will be wearing "
+	    },
+	    {
+	        "sentence": "She buys too many things. She_____ all her money long before her next pay.",
+	        "options": ["will be spending ", "will have spent ", "will have been spending "],
+	        "answer": "will have spent "
+	    },
+	    {
+	        "sentence": "My friend __________ a new car by the end of the year.",
+	        "options": ["will buy ", "will be buying ", "will have bought "],
+	        "answer": "will have bought "
+	    },
+	    {
+	        "sentence": "I think he ________ for the job before you arrive.",
+	        "options": ["will have applied ", "will apply ", "will be applying "],
+	        "answer": "will have applied "
+	    },
+	    {
+	        "sentence": "By the time you finish your meal, I ________ for an hour.",
+	        "options": ["will be studying ", "will have studied ", "will study "],
+	        "answer": "will have studied "
+	    },
+	    {
+	        "sentence": "When you come back, I ________ my book for a while.",
+	        "options": ["will be reading ", "will have read ", "will read "],
+	        "answer": "will have read "
+	    },
+	    {
+	        "sentence": "By next summer, he ________ in this city for five years.",
+	        "options": ["will live ", "will have lived ", "will be living "],
+	        "answer": "will have lived "
+	    },
+	    {
+	        "sentence": "I promise I ________ you a call as soon as I reach home.",
+	        "options": ["will give ", "will have given ", "will be giving "],
+	        "answer": "will give "
+	    },
+	    {
+	        "sentence": "Don't worry, I ________ my homework before the deadline.",
+	        "options": ["will finish ", "will be finishing ", "will have finished "],
+	        "answer": "will have finished "
+	    },
+	    {
+	        "sentence": "He ________ the guitar when I visit him tomorrow.",
+	        "options": ["will play ", "will be playing ", "will have played "],
+	        "answer": "will be playing "
+	    },
+	    {
+	        "sentence": "We hope you ________ to our party next weekend.",
+	        "options": ["will come ", "will have come ", "will be coming "],
+	        "answer": "will come "
+	    },
+	    {
+	        "sentence": "The flowers ________ by the time we return from our trip.",
+	        "options": ["will bloom ", "will have bloomed ", "will be blooming "],
+	        "answer": "will have bloomed "
+	    },
+	    {
+	        "sentence": "I promise I ________ you a gift for your birthday.",
+	        "options": ["will buy ", "will have bought ", "will be buying "],
+	        "answer": "will buy "
+	    },
+	    {
+	        "sentence": "She ________ her favorite song when you arrive.",
+	        "options": ["will sing ", "will be singing ", "will have sung "],
+	        "answer": "will be singing "
+	    },
+	    {
+	        "sentence": "The sun ________ when we reach the beach in the morning.",
+	        "options": ["will rise ", "will be rising ", "will have risen "],
+	        "answer": "will be rising "
+	    },
+	    {
+	        "sentence": "I believe they ________ their new house by the end of the year.",
+	        "options": ["will have built ", "will build ", "will be building "],
+	        "answer": "will have built "
+	    },
+	    {
+	        "sentence": "He ________ his presentation before the conference starts.",
+	        "options": ["will prepare ", "will be preparing ", "will have prepared "],
+	        "answer": "will have prepared "
+	    }	    
+	]
+}

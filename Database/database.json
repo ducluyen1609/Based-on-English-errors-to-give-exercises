@@ -1,0 +1,2374 @@
+{
+	"sai danh từ số ít-số nhiều":
+	[
+		{
+	        "sentence": "All birds are very good at building their_____",
+	        "options": ["nestes", "nest", "nests", "nestoes"],
+	        "answer":"nests"
+	    },
+	    {
+	        "sentence": "Donna and Doug are planning to sell all their possessions and move to Maui in order to become beach_____.",
+	        "options": ["bumes", "bums", "bum", "bumoes"],
+	        "answer":"bums"
+	    },
+	    {
+	        "sentence": "We ate both____.",
+	        "options": ["apple", "appleoes", "apples", "applese"],
+	        "answer":"apples"
+	    },
+	    {	"sentence": "We picked some_____ from the tree.",
+	        "options": ["orangeses", "orangeoes", "oranges", "orange"],
+	        "answer":"oranges"
+	    },
+	    {
+	        "sentence": "Leaves covered the two ______ in the woods.",
+	        "options": ["pathes", "path", "paths", "pathese"],
+	        "answer":"paths"
+	    },
+	    {
+	        "sentence": "Three_____ swam in the river.",
+	        "options": ["fish", "fishs", "fishes", "fishoes"],
+	        "answer":"fish"
+	    },
+	    {
+	        "sentence": "I have jush bought three_____.",
+	        "options": ["ox", "oxes", "oxs", "oxen"],
+	        "answer":"oxen"
+	    },
+	    {
+	        "sentence": "Sandy knew that many _____ were living in the walls of the old houses.",
+	        "options": ["mouses", "mouse", "mice", "mices"],
+	        "answer":"mice"
+	    },
+	    {
+	        "sentence": "The hunters never noticed the two ____ by the appletrees.",
+	        "options": ["deers", "deeres", "deer", "deeroes"],
+	        "answer":"deer"
+	    },
+	    {
+	        "sentence": "Are the _____chasing the other farm animals?",
+	        "options": ["geese", "gooses", "goose", "goosoes"],
+	        "answer":"geese"
+	    },
+	    {
+	        "sentence": "You should place the _____ and spoons to the left of the plates.",
+	        "options": ["knifes", "knives", "knife", "knifese"],
+	        "answer":"knives"
+	    },
+	    {
+	        "sentence": "The _____ stood on boxes to see the parade.",
+	        "options": ["child", "childs", "children", "childrens"],
+	        "answer":"children"
+	    },
+	    {
+	        "sentence": "Please keep your hands and ____ inside the car.",
+	        "options": ["feet", "foots", "foot", "footes"],
+	        "answer":"feet"
+	    },
+	    {
+	        "sentence": "Please give me that _____.",
+	        "options": ["cissor", "cissors", "cissorses", "cissores"],
+	        "answer":"scissors"
+	    },
+	    {
+	        "sentence": "There are five____in the picture.",
+	        "options": ["sheep", "sheeps", "sheepes"],
+	        "answer":"sheep"
+	    },
+	    {
+	        "sentence": "There are a lot of beautiful _____.",
+	        "options": ["trees", "tree"],
+	        "answer":"trees"
+	    },
+	    {
+	        "sentence": "There are two _____ in the shop.",
+	        "options": ["women", "woman"],
+	        "answer":"woman"
+	    },
+	    {
+	        "sentence": "Do you wear _____?",
+	        "options": ["glasses", "glass"],
+	        "answer":"glasses"
+	    },
+	    {
+	        "sentence": "I don’t like _____. I’m afraid of them.",
+	        "options": ["mice", "mouse"],
+	        "answer":"mice"
+	    },
+	    {
+	        "sentence": "I need a new pair of _____.",
+	        "options": ["jean", "jeans"],
+	        "answer":"jeans"
+	    },
+	    {
+	        "sentence": "He is married and has two _____.",
+	        "options": ["child", "children"],
+	        "answer":"children"
+	    },
+	    {
+	        "sentence": "There was a woman in the car with two _____.",
+	        "options": ["man", "men"],
+	        "answer":"men"
+	    },
+	    {
+	        "sentence": "How many _____ do you have in your bag?",
+	        "options": ["keys", "key"],
+	        "answer":"keys"
+	    },
+	    {
+	        "sentence": "I like your ______. Where did you buy it?",
+	        "options": ["trousers", "trouser"],
+	        "answer":"trousers"
+	    },
+	    {
+	        "sentence": "He put on his _____ and went to bed.",
+	        "options": ["pyjama", "pyjamas"],
+	        "answer":"pyjama"
+	    },
+	    {
+	        "sentence": "These _____ aren’t very sharp.",
+	        "options": ["scissor", "scissors"],
+	        "answer":"scissors"
+	    },
+	    {
+	        "sentence": "There are three windows in the _____.",
+	        "options": ["house", "houses"],
+	        "answer":"house"
+	    },
+	    {
+	        "sentence": "My father has a new _____.",
+	        "options": ["jobs", "job"],
+	        "answer":"job"
+	    },
+	    {
+	        "sentence": "I have four _____.",
+	        "options": ["dictionary", "dictionaries"],
+	        "answer":"dictionaries"
+	    },
+	    {
+	        "sentence": "Most of my friends are _____.",
+	        "options": ["student", "students"],
+	        "answer":"student"
+	    },
+	    {
+	        "sentence": "There is one _____ on the floor.",
+	        "options": ["mouse", "mice"],
+	        "answer":"mouse"
+	    },
+	    {
+	        "sentence": "We have _____.",
+	        "options": ["car", "cars"],
+	        "answer":"cars"
+	    },
+	    {
+	        "sentence": "They are riding their _____.",
+	        "options": ["bicycle", "bicycles"],
+	        "answer":"bicycles"
+	    },
+	    {
+	        "sentence": "There are three _____ on my desk.",
+	        "options": ["books", "book"],
+	        "answer":"books"
+	    },
+	    {
+	        "sentence": "I have two _____.",
+	        "options": ["babies", "baby"],
+	        "answer":"babies"
+	    },
+	    {
+	        "sentence": "We arrived here two _____.",
+	        "options": ["day", "days"],
+	        "answer":"days"
+	    },
+	    {
+	        "sentence": "There are only _____ at our school.",
+	        "options": ["boy", "boys"],
+	        "answer":"boy"
+	    },
+	    {
+	        "sentence": "You are too old to play with _____.",
+	        "options": ["toys", "toy"],
+	        "answer":"toy"
+	    },
+	    {
+	        "sentence": "Where is your _____?",
+	        "options": ["toys", "toy"],
+	        "answer":"toys"
+	    },
+	    {
+	        "sentence": "_____ and gentleman, I’d like to invite you.",
+	        "options": ["Lady", "Ladies"],
+	        "answer":"Ladies"
+	    },
+	    {
+	        "sentence": "______ are stronger than girls.",
+	        "options": ["Boys", "Boy"],
+	        "answer":"Boys"
+	    },
+	    {
+	        "sentence": "She is a real _____.",
+	        "options": ["ladies", "lady"],
+	        "answer":"lady"
+	    },
+	    {
+	        "sentence": "What _____ is it today?",
+	        "options": ["days", "day"],
+	        "answer":"day"
+	    },
+	    {
+	        "sentence": "There is a _____ on the cake.",
+	        "options": ["fly", "flies"],
+	        "answer":"fly"
+	    },
+	    {
+	        "sentence": "How are your _____ today?",
+	        "options": ["babies", "baby"],
+	        "answer":"baby"
+	    },
+	    {
+	        "sentence": "This _____ is mine.",
+	        "options": ["cat", "cats"],
+	        "answer":"cat"
+	    },
+	    {
+	        "sentence": "This _____ is awful.",
+	        "options": ["hats", "hat"],
+	        "answer":"hat"
+	    },
+	    {
+	        "sentence": "These _____ are quite expensive.",
+	        "options": ["shirts", "shirt"],
+	        "answer":"shirts"
+	    },
+	    {
+	        "sentence": "Give me this _____ , please.",
+	        "options": ["tickets", "ticket"],
+	        "answer":"ticket"
+	    },
+	    {
+	        "sentence": "Introduce me to this _____, please.",
+	        "options": ["girls", "girl"],
+	        "answer":"girl"
+	    },
+	    {
+	        "sentence": "Those _____ are described in Tom's book.",
+	        "options": ["incidents", "incident"],
+	        "answer":"incidents"
+	    },
+	    {
+	        "sentence": "I want these _____ back tomorrow.",
+	        "options": ["paper", "papers"],
+	        "answer":"papers"
+	    },
+	    {
+	        "sentence": "That ______ is closed.",
+	        "options": ["shop", "shops"],
+	        "answer":"shop"
+	    },
+	    {
+	        "sentence": "These _____ are dirty.",
+	        "options": ["windows", "window"],
+	        "answer":"windows"
+	    },
+	    {
+	        "sentence": "I want to see that _____.",
+	        "options": ["sweaters", "windows"],
+	        "answer":"windows"
+	    },
+	    {
+	        "sentence": "Those _____ should be published.",
+	        "options": ["stories", "story"],
+	        "answer":"stories"
+	    },
+	    {
+	        "sentence": "These _____ are here.",
+	        "options": ["book", "books"],
+	        "answer":"books"
+	    },
+	    {
+	        "sentence": "Throw away those _____.",
+	        "options": ["bulb", "bulbs"],
+	        "answer":"bulbs"
+	    },
+	    {
+	        "sentence": "That _____ is the best.",
+	        "options": ["picture", "pictures"],
+	        "answer":"picture"
+	    },
+	    {
+	        "sentence": "That _____ costs a fortune.",
+	        "options": ["seat", "seats"],
+	        "answer":"seat"
+	    },
+	    {
+	        "sentence": "Those _____ must be crazy.",
+	        "options": ["man", "men"],
+	        "answer":"men"
+	    },
+	    {
+	        "sentence": "I must read that _____.",
+	        "options": ["book", "books"],
+	        "answer":"book"
+	    },
+	    {
+	        "sentence": "This _____ is John's.",
+	        "options": ["seats", "seat"],
+	        "answer":"seat"
+	    },
+	    {
+	        "sentence": "Look at these _____.",
+	        "options": ["photos", "photo"],
+	        "answer":"photos"
+	    },
+	    {
+	        "sentence": "Bring me that _____, please.",
+	        "options": ["pencil", "pencils"],
+	        "answer":"pencil"
+    	}
+	],
+
+	"sai mạo từ": 
+	[
+	    {
+	        "sentence": "I would live to live by _____ sea",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "Harry is a sailor. He spends most of his life at______ see.",
+	        "options": ["a", "an", "the", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "There are billions of stars in ______ space.",
+	        "options": ["a", "an", "no article", "the"],
+	        "answer": "no article"
+	    },
+	    {
+	        "sentence": "He tried to park his car but______ space wasn't big enough.",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "We often watch______ television",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "no article"
+	    },
+	    {
+	        "sentence": "Can you turn off______ television, please?",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "We had______ dinner in a restaurant.",
+	        "options": ["a", "an", "no article", "the"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "We had______ meal in a restaurant.",
+	        "options": ["a", "an", "the", "no article"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "Thank you. That was______ very nice lunch.",
+	        "options": ["a", "an", "the", "no article"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "Where can______ people buy everything they need?",
+	        "options": ["the", "a", "an", "no article is needed"],
+	        "answer": "no article is needed"
+	    },
+	    {
+	        "sentence": "Her parents are now working in ______ Europe.",
+	        "options": ["the", "a", "an", "no article is needed"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "He majors______ in English.",
+	        "options": ["a", "an", "the", "no article is needed"],
+	        "answer": "no article is needed"
+	    },
+	    {
+	        "sentence": "Mark Twain, ______ American writer, wrote 'Life on the Mississippi River'.",
+	        "options": ["an", "a", "the", "no article"],
+	        "answer": "an"
+	    },
+	    {
+	        "sentence": "Paris is splendid by ______ night.",
+	        "options": ["a", "an", "the", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "We might be able to catch______ last train if we hurried.",
+	        "options": ["a", "an", "the", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "______ used razor blade is______ useless thing.",
+	        "options": ["The/ the", "A/", "An/ an", "no article"],
+	        "answer": "A/"
+	    },
+	    {
+	        "sentence": "We live at______ third house from the church.",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "My aunt has______ interesting novel.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "an"
+	    },
+	    {
+	        "sentence": "It was______ best film I had ever read.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "A video lab is______ useful means for language learning.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "Mrs. Lan went to ______ school to meet her son's teacher.",
+	        "options": ["no article", "a", "an", "the"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "The workmen went to ______ church to repair the roof.",
+	        "options": ["no article", "the", "a", "an"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "Carol went to ______ prison to meet her brother.",
+	        "options": ["the", "a", "an", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "This morning I bought a newspaper and a magazine______ newspaper is in my bag but I don't know where______ magazine.",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "the/ the"
+	    },
+	    {
+	        "sentence": "My parents have ______ cat and ______ dog. The dog never bites the cat.",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "a/ a"
+	    },
+	    {
+	        "sentence": "We live in______ big house in ______ middle of the village.",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "I'm looking for ____ job. Did Mary get_____ job she applied for?",
+	        "options": ["a/ the", "the/ a", "a/ a", "the/ the"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "Did______ police find ______ person who stole your bicycle?",
+	        "options": ["a/ a", "the/ the", "a/ the", "the/ a"],
+	        "answer": "the/ the"
+	    },
+	    {
+	        "sentence": "We went out for ______ meal last night ______ restaurant we went was excellent.",
+	        "options": ["a/ a", "the/ the", "a/ the", "the/ a"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "As I was walking along the street, I saw ______$10 note on ______ pavement.",
+	        "options": ["a/ a", "the/ the", "a/ the", "the/ a"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "The Soviet Union was______ first country to sent a man into ______ space.",
+	        "options": ["the/ the", "no article / no article", "no article / the", "the/ no article"],
+	        "answer": "the/ no article"
+	    },
+	    {
+	        "sentence": "Did you watch \"Titanic\" on ______ television or at______ cinema?",
+	        "options": ["the/ the", "no article/ no article", "no article/ the", "the/ no article"],
+	        "answer": "no article/ the"
+	    },
+	    {
+	        "sentence": "After______ lunch, we went for a walk by ______ sea.",
+	        "options": ["the/ the", "no article/ no article", "no article/ the", "the/ no article"],
+	        "answer": "no article/ the"
+	    },
+	    {
+	        "sentence": "Peru is______ country in south America______ capital is Lima",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "I never listen to ______ radio. In fact I haven't got______ radio.",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "the/ a"
+	    },
+	    {
+	        "sentence": "It was a beautiful day______ sun shone brightly in ______ sky.",
+	        "options": ["a/ a", "a/ the", "the/ the", "the/ a"],
+	        "answer": "the/ the"
+	    },
+	    {
+	        "sentence": "______ used razor blade is______ useless thing.",
+	        "options": ["The/ the", "A/ a", "An/ an", "no article"],
+	        "answer": "A/ a"
+	    },
+	    {
+	        "sentence": "We live at______ third house from the church.",
+	        "options": ["a/ a", "the/ the", "a/ the", "the/ a"],
+	        "answer": "a/ a"
+	    },
+	    {
+	        "sentence": "My aunt has______ interesting novel.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "It was______ best film I had ever read.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "A video lab is______ useful means for language learning.",
+	        "options": ["the", "an", "a", "no article"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "______________ train times are different on ______________Sundays.",
+	        "options": ["Ø - the", "The - the", "Ø - Ø", "The - Ø"],
+	        "answer": "The - Ø"
+	    },
+	    {
+	        "sentence": "You can use______________ railcard in most of ______________ countries in Europe..",
+	        "options": ["the - the", "a - Ø", "a - the", "the - Ø"],
+	        "answer": "a - the"
+	    },
+	    {
+	        "sentence": "Our plane arrives in Ha Noi at______________ two o’clock in ______________ afternoon.",
+	        "options": ["Ø - the", "the - the", "a - a", "the - an"],
+	        "answer": "Ø - the"
+	    },
+	    {
+	        "sentence": "My uncle and aunt live in______________small town in______________United States.",
+	        "options": ["a - a", "a - the", "the - the", "a - Ø"],
+	        "answer": "a - Ø"
+	    },
+	    {
+	        "sentence": "______________ happiness means ______________ different things to different people.",
+	        "options": ["Some - these", "The - Ø", "Ø - Ø", "The -the"],
+	        "answer": "The - Ø"
+	    },
+	    {
+	        "sentence": "I lay down on______________ground and looked up at ______________ sky.",
+	        "options": ["a - a", "a - the", "the - a", "the - the"],
+	        "answer": "the - the"
+	    },
+	    {
+	        "sentence": "“I watch a film in Spanish. I understood______________ story, but ______________ actors spoke very fast so it was hard to understand.”",
+	        "options": ["the - the", "a - Ø", "a - the", "the - Ø"],
+	        "answer": "the - the"
+	    },
+	    {
+	        "sentence": "“Did you have______________nice holiday?” - “Yes, it was ______________best holiday I’ve ever had.”",
+	        "options": ["a - a", "a - the", "the - a", "the - the"],
+	        "answer": "a - the"
+	    },
+	    {
+	        "sentence": "He spent part of______________afternoon telling them ______________ news he could not tell them by telephone.",
+	        "options": ["the - the - Ø", "an - Ø - the", "an - the - the", "the - Ø - the"],
+	        "answer": "the - the - Ø"
+	    },
+	    {
+	        "sentence": "Eight o’clock is______________good time to phone Nick: he’s always at home in ______________ evening.",
+	        "options": ["Ø - the", "a - the", "a-Ø", "a - an"],
+	        "answer": "a - the"
+	    },
+	    {
+	        "sentence": "Does it take______________long time to get to______________city centre?",
+	        "options": ["Ø - the", "a - a", "a - the", "the - the"],
+	        "answer": "the - the"
+	    },
+	    {
+	        "sentence": "What do you think of______________public transport in______________Ha Noi?",
+	        "options": ["Ø - Ø", "a - a", "a - Ø", "the - Ø"],
+	        "answer": "the - Ø"
+	    },
+	    {
+	        "sentence": "Parking is very difficult in______________city centre, so my father always go there by ______________ bus.",
+	        "options": ["the – Ø", "the - the", "a - a", "a - Ø"],
+	        "answer": "the – Ø"
+	    },
+	    {
+	        "sentence": "There isn’t ______________airport near where I live.______________nearest airport is 70 miles away.",
+	        "options": ["an - A", "an - The", "the - A", "the - The"],
+	        "answer": "an - The"
+	    },
+	    {
+	        "sentence": "David is______________sailor. He spends most of his life at ______________sea.",
+	        "options": ["Ø - a", "a- Ø", "a - a", "a - the"],
+	        "answer": "a- Ø"
+	    },
+	    {
+	        "sentence": "We went out for _____ meal last night. _____ restaurant we went to was excellent.",
+	        "options": ["a/ The", "the/ A", "a/ Ø", "the/ Ø"],
+	        "answer": "a/ The"
+	    },
+	    {
+	        "sentence": "As I was walking along the street, I saw _____ $10 note on _____ pavement.",
+	        "options": ["a/ a", "the/ the", "a/ the", "the/ a"],
+	        "answer": "a/ the"
+	    },
+	    {
+	        "sentence": "_____ actress’s life is in many ways unlike that of other women.",
+	        "options": ["An", "A", "As", "That the"],
+	        "answer": "An"
+	    },
+	    {
+	        "sentence": "Kate plays _____ violin in an orchestra.",
+	        "options": ["the", "a", "an", "Ø"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "_____ computer has changed _____ way we live.",
+	        "options": ["A/ the", "The/ the", "A/ a", "The/ a"],
+	        "answer": "The/ the"
+	    },
+	    {
+	        "sentence": "Excuse me, where is _____ bus station, please?",
+	        "options": ["a", "the", "Ø", "an"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "What did you have for _____ breakfast this morning?",
+	        "options": ["a", "an", "the", "Ø"],
+	        "answer": "Ø"
+	    },
+	    {
+	        "sentence": "Peter used to work in _____ Middle East.",
+	        "options": ["Ø", "the", "an", "a"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "My plane was delayed. I had to wait at _____ airport for three hours.",
+	        "options": ["the", "a", "an", "Ø"],
+	        "answer": "the"
+	    },
+	    {
+	        "sentence": "I have _____ problem. Can you help me?",
+	        "options": ["Ø", "a", "an", "the"],
+	        "answer": "a"
+	    },
+	    {
+	        "sentence": "Barack Obama is _____ President of _____ United States.",
+	        "options": ["the/ the", "a/ Ø", "the/ Ø", "the/ an"],
+	        "answer": "the/ the"
+	    },
+	    {
+	        "sentence": "He never listens to _____ radio. He prefers watching _____ television.",
+	        "options": ["a/ a", "a/ the", "the/ Ø", "Ø/ the"],
+	        "answer": "the/ Ø"
+	    },
+	    {
+	        "sentence": "_____ university will be built in _____ center of the town.",
+	        "options": ["A/ the", "An/ the", "The/ a", "An/ a"],
+	        "answer": "A/ the"
+	    },
+	    {
+	        "sentence": "_____ River Nile is _____ longest river of all.",
+	        "options": ["Ø/ Ø", "A/ the", "The/ the", "Ø/ a"],
+	        "answer": "A/ the"
+	    },
+	    {
+	        "sentence": "_____ Women’s Day is on _____ eighth of March.",
+	        "options": ["The/ Ø", "Ø/ the", "The/ an", "Ø/ an"],
+	        "answer": "The/ Ø"
+	    },
+	    {
+	        "sentence": "By _____ time we had just left the office, _____ alarm went off.",
+	        "options": ["Ø/ the", "a/ an", "a/ the", "the/ an"],
+	        "answer": "the/ an"
+	    },
+	    {
+	        "sentence": "He grew up in _____ orphanage in _____ United Kingdom.",
+	        "options": ["the/ Ø", "an/ an", "the/ an", "an/ the"],
+	        "answer": "an/ the"
+	    },
+	    {
+	        "sentence": "Laura is friendly. She can make _____ friends easily.",
+	        "options": ["a", "an", "the", "Ø"],
+	        "answer": "Ø"
+	    },
+	    {
+	        "sentence": "That car can run at _____ speed of 180 miles _____ hour.",
+	        "options": ["the/ an", "a/ the", "a/ a", "the/ a"],
+	        "answer": "the/ an"
+	    },
+	    {
+	        "sentence": "_____ experience is _____ best teacher.",
+	        "options": ["An/ the", "Ø/ the", "the/ the", "an/ an"],
+	        "answer": "Ø/ the"
+	    }
+		],
+		"sai trật tự từ": [{
+	        "sentence": "___________",
+	        "options": ["a pair of sport new French shoes", "a pair of new sport French shoes", "a pair of new French sport shoes", "a pair of French new sport shoes"],
+	        "answer": "a pair of new French sport shoes"
+	    },
+	    {
+	        "sentence": "___________",
+	        "options": ["a young tall beautiful lady", "a tall young beautiful lady", "a beautiful young tall lady", "a beautiful tall young lady"],
+	        "answer": "a beautiful tall young lady"
+	    },
+	    {
+	        "sentence": "___________",
+	        "options": ["an old wooden thick table", "a thick old wooden table", "a thick wooden old table", "a wooden thick old table"],
+	        "answer": "a thick old wooden table"
+	    },
+	    {
+	        "sentence": "___________",
+	        "options": ["a modern Vietnamese racing car", "a Vietnamese modern racing car", "a racing Vietnamese modern car", "a modern racing Vietnamese car"],
+	        "answer": "a modern Vietnamese racing car"
+	    },
+	    {
+	        "sentence": "___________",
+	        "options": ["a new interesting English book", "an English new interesting book", "an interesting English new book", "an interesting new English book"],
+	        "answer": "an interesting new English book"
+    	}
+	],
+
+	"sai trật tự từ":
+	[
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "an old blue fast racing car",
+	            "a fast old blue racing car",
+	            "an old racing fast blue car"
+	        ],
+	        "answer": "an old racing fast blue car"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "a red and white spotted tea pot",
+	            "a red and white tea spotted pot",
+	            "a spotted red and white tea pot"
+	        ],
+	        "answer": "a spotted red and white tea pot"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "a cute little white lamb",
+	            "a little cute white lamb",
+	            "a white cute little lamb"
+	        ],
+	        "answer": "a little cute white lamb"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "an expensive leather brown jacket",
+	            "an expensive brown leather jacket",
+	            "a brown expensive leather jacket"
+	        ],
+	        "answer": "an expensive brown leather jacket"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "a modern yellow comfortable sofa",
+	            "a modern comfortable yellow sofa",
+	            "a yellow modern comfortable sofa"
+	        ],
+	        "answer": "a modern yellow comfortable sofa"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            "a green majestic old oak",
+	            "a majestic old green oak",
+	            "an old majestic green oak"
+	        ],
+	        "answer": "an old majestic green oak"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an old blue fast racing car",
+	            " a fast old blue racing car",
+	            " an old racing fast blue car"
+	        ],
+	        "answer": " an old racing fast blue car"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a red and white spotted tea pot",
+	            " a red and white tea spotted pot",
+	            " a spotted red and white tea pot"
+	        ],
+	        "answer": " a spotted red and white tea pot"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a cute little white lamb",
+	            " a little cute white lamb",
+	            " a white cute little lamb"
+	        ],
+	        "answer": " a little cute white lamb"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an expensive leather brown jacket",
+	            " an expensive brown leather jacket",
+	            " a brown expensive leather jacket"
+	        ],
+	        "answer": " an expensive brown leather jacket"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a modern yellow comfortable sofa",
+	            " a modern comfortable yellow sofa",
+	            " a yellow modern comfortable sofa"
+	        ],
+	        "answer": " a modern yellow comfortable sofa"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a green majestic old oak",
+	            " a majestic old green oak",
+	            " an old majestic green oak"
+	        ],
+	        "answer": " an old majestic green oak"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a big round wooden table",
+	            " a round big wooden table",
+	            " a wooden round big table"
+	        ],
+	        "answer": " a big round wooden table"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a beautiful white porcelain vase",
+	            " a white beautiful porcelain vase",
+	            " a porcelain beautiful white vase"
+	        ],
+	        "answer": " a beautiful white porcelain vase"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an old rusty iron gate",
+	            " a rusty old iron gate",
+	            " an iron rusty old gate"
+	        ],
+	        "answer": " a rusty old iron gate"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a tall slim black man",
+	            " a slim tall black man",
+	            " a black slim tall man"
+	        ],
+	        "answer": " a tall slim black man"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an expensive Italian leather bag",
+	            " an Italian expensive leather bag",
+	            " an Italian leather expensive bag"
+	        ],
+	        "answer": " an expensive Italian leather bag"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a shiny silver metal spoon",
+	            " a silver shiny metal spoon",
+	            " a metal shiny silver spoon"
+	        ],
+	        "answer": " a shiny silver metal spoon"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a small old red house",
+	            " a red small old house",
+	            " an old small red house"
+	        ],
+	        "answer": " a small old red house"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a round wooden dining table",
+	            " a wooden round dining table",
+	            " a dining round wooden table"
+	        ],
+	        "answer": " a wooden round dining table"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a cozy brown leather armchair",
+	            " a brown cozy leather armchair",
+	            " a leather cozy brown armchair"
+	        ],
+	        "answer": " a cozy brown leather armchair"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a long narrow wooden bridge",
+	            " a narrow long wooden bridge",
+	            " a wooden narrow long bridge"
+	        ],
+	        "answer": " a long narrow wooden bridge"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an old antique mahogany desk",
+	            " an antique old mahogany desk",
+	            " an antique mahogany old desk"
+	        ],
+	        "answer": " an old antique mahogany desk"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a stylish black leather jacket",
+	            " a black stylish leather jacket",
+	            " a leather stylish black jacket"
+	        ],
+	        "answer": " a stylish black leather jacket"
+    	},
+    	{
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a tall thin old man",
+	            " a thin old tall man",
+	            " an old thin tall man"
+	        ],
+	        "answer": " a tall thin old man"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a modern silver laptop computer",
+	            " a silver modern laptop computer",
+	            " a laptop modern silver computer"
+	        ],
+	        "answer": " a modern silver laptop computer"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an old dusty bookshelf",
+	            " a dusty old bookshelf",
+	            " a bookshelf old dusty"
+	        ],
+	        "answer": " a dusty old bookshelf"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a bright yellow sunflower",
+	            " a yellow bright sunflower",
+	            " a sunflower bright yellow"
+	        ],
+	        "answer": " a bright yellow sunflower"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a large white porcelain bowl",
+	            " a white large porcelain bowl",
+	            " a porcelain large white bowl"
+	        ],
+	        "answer": " a large white porcelain bowl"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a cozy wooden rocking chair",
+	            " a wooden cozy rocking chair",
+	            " a rocking cozy wooden chair"
+	        ],
+	        "answer": " a cozy wooden rocking chair"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a sleek black sports car",
+	            " a black sleek sports car",
+	            " a sports black sleek car"
+	        ],
+	        "answer": " a sleek black sports car"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a green wooden coffee table",
+	            " a wooden green coffee table",
+	            " a coffee wooden green table"
+	        ],
+	        "answer": " a green wooden coffee table"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " an old silver pocket watch",
+	            " a silver old pocket watch",
+	            " a pocket old silver watch"
+	        ],
+	        "answer": " an old silver pocket watch"
+	    },
+	    {
+	        "sentence": "_____________________.",
+	        "options": [
+	            " a vintage leather suitcase",
+	            " a leather vintage suitcase",
+	            " a suitcase leather vintage"
+	        ],
+	        "answer": " a vintage leather suitcase"
+	    },
+	    {
+            "sentence": "_____________________.",
+            "options": [
+                " a beautiful antique wooden chest",
+                " a wooden beautiful antique chest",
+                " an antique beautiful wooden chest"
+            ],
+            "answer": " a beautiful antique wooden chest"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a sleek silver smartphone",
+                " a silver sleek smartphone",
+                " a smartphone sleek silver"
+            ],
+            "answer": " a sleek silver smartphone"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a cozy plaid wool blanket",
+                " a plaid cozy wool blanket",
+                " a wool plaid cozy blanket"
+            ],
+            "answer": " a cozy plaid wool blanket"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a vintage red leather armchair",
+                " a red vintage leather armchair",
+                " a leather red vintage armchair"
+            ],
+            "answer": " a vintage red leather armchair"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a tall glass skyscraper",
+                " a glass tall skyscraper",
+                " a skyscraper tall glass"
+            ],
+            "answer": " a tall glass skyscraper"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a small cozy log cabin",
+                " a cozy small log cabin",
+                " a log cozy small cabin"
+            ],
+            "answer": " a small cozy log cabin"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a stylish black leather belt",
+                " a black stylish leather belt",
+                " a leather black stylish belt"
+            ],
+            "answer": " a stylish black leather belt"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " an old wooden grandfather clock",
+                " a wooden old grandfather clock",
+                " a grandfather old wooden clock"
+            ],
+            "answer": " an old wooden grandfather clock"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a red velvet theater curtain",
+                " a velvet red theater curtain",
+                " a theater red velvet curtain"
+            ],
+            "answer": " a red velvet theater curtain"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a sleek silver pocket knife",
+                " a silver sleek pocket knife",
+                " a pocket sleek silver knife"
+            ],
+            "answer": " a sleek silver pocket knife"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a tall thin old oak tree",
+                " a thin tall old oak tree",
+                " an old tall thin oak tree"
+            ],
+            "answer": " a tall thin old oak tree"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a bright red sports car",
+                " a red bright sports car",
+                " a sports bright red car"
+            ],
+            "answer": " a bright red sports car"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a cozy plaid wool blanket",
+                " a wool cozy plaid blanket",
+                " a plaid cozy wool blanket"
+            ],
+            "answer": " a cozy plaid wool blanket"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " an antique wooden rocking chair",
+                " a wooden antique rocking chair",
+                " a rocking antique wooden chair"
+            ],
+            "answer": " an antique wooden rocking chair"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a sleek silver laptop bag",
+                " a silver sleek laptop bag",
+                " a laptop sleek silver bag"
+            ],
+            "answer": " a sleek silver laptop bag"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a cozy log cabin retreat",
+                " a log cozy cabin retreat",
+                " a cabin cozy log retreat"
+            ],
+            "answer": " a cozy log cabin retreat"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a stylish black leather belt",
+                " a leather stylish black belt",
+                " a black stylish leather belt"
+            ],
+            "answer": " a stylish black leather belt"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " an old wooden grandfather clock",
+                " a wooden old grandfather clock",
+                " a grandfather old wooden clock"
+            ],
+            "answer": " an old wooden grandfather clock"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a red velvet theater curtain",
+                " a velvet red theater curtain",
+                " a theater red velvet curtain"
+            ],
+            "answer": " a red velvet theater curtain"
+        },
+        {
+            "sentence": "_____________________.",
+            "options": [
+                " a sleek silver pocket knife",
+                " a silver sleek pocket knife",
+                " a pocket sleek silver knife"
+            ],
+            "answer": " a sleek silver pocket knife"
+        }
+	],
+	"sai giới từ":
+	[
+        {
+            "sentence": "My lesson starts _____ five o'clock.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "My father usually buys a newspaper ____ the morning.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "We wear warm clothes _____ winter.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "We get presents ____ Christmas.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "I usually visit my grandparents _____ Sunday afternoon.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "John's birthday is ______ August 16th.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "The film finishes ______ 9:30.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "The supermarket is closed _____ Sunday.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "She usually goes to bed _____ 10:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "I have an appointment _____ 2:30 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "We have a meeting _____ Wednesday.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "I'll see you _____ the weekend.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "He loves to take a walk _____ night.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I need to finish this report _____ 5:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The concert will start _____ 8:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "He arrives _____ 3:15 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They went to the beach _____ summer.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The school closes _____ the weekend.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I have an important test _____ Monday.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "They love to have a picnic _____ the park.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The meeting is scheduled _____ 2:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "My birthday is _____ October 15th.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "We have a holiday _____ Christmas Day.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "She plans to travel _____ August.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I will see you _____ the morning.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "The concert will end _____ 11:30 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "We have a reservation _____ 7:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "He loves to take a walk _____ the evening.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I'll call you _____ 7:45 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "She loves to read a book _____ night.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The store closes _____ Sunday.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "My flight is scheduled _____ 11:30 AM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They usually have lunch _____ 12:30 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "We go to the park _____ the weekends.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "My birthday is _____ March 21st.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "They have a family gathering _____ Christmas Eve.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "The concert is on _____ Saturday night.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "She plans to travel _____ the summer vacation.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The school opens _____ Monday morning.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "We will meet _____ the evening.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "My dentist appointment is _____ 9:00 AM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They love to go hiking _____ the spring.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I'll see you _____ the morning of June 10th.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "We celebrate his birthday _____ the evening.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "She has an important meeting _____ 2:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "The event will take place _____ 7:30 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "I'll pick you up _____ 6:15 AM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They arrived _____ the airport _____ night.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "She usually has breakfast _____ 8:00 AM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They enjoy a picnic _____ the park.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The library is open _____ Sundays.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "We watch movies _____ Saturday nights.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "I have a dentist appointment _____ 3:30 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "We celebrate New Year's Eve _____ December 31st.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "She goes to the gym _____ the morning.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The event is scheduled _____ 6:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "We have a family gathering _____ Thanksgiving Day.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "I'll meet you _____ the afternoon.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "She enjoys reading books _____ the evening.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "We'll have dinner _____ 7:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "He goes for a run _____ the morning.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "The party will start _____ 9:00 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "They usually have lunch _____ the park.",
+            "options": [" on", " at", " in"],
+            "answer": " in"
+        },
+        {
+            "sentence": "I'll see you _____ the weekend.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "She has an important meeting _____ Monday morning.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        },
+        {
+            "sentence": "He arrives _____ 2:15 PM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "The store opens _____ 10:00 AM.",
+            "options": [" on", " at", " in"],
+            "answer": " at"
+        },
+        {
+            "sentence": "My flight is scheduled _____ August 5th.",
+            "options": [" on", " at", " in"],
+            "answer": " on"
+        }
+    ],
+	"sai các liên từ": [
+        {
+            "sentence": "She couldn’t attend the party __________ she had a prior commitment.",
+            "options": ["a) because", "b) and", "c) but", "d) so"],
+            "answer": "a) because"
+        },
+        {
+            "sentence": "He was both tired __________ hungry after the long journey.",
+            "options": ["a) and", "b) or", "c) but", "d) because"],
+            "answer": "a) and"
+        },
+        {
+            "sentence": "We’ll go out for dinner tonight__________ my meeting ends early.",
+            "options": ["a) because", "b) if", "c) so", "d) but"],
+            "answer": "b) if"
+        },
+        {
+            "sentence": "Sarah won’t go to the beach _____ her friends are going with her.",
+            "options": ["a) despite", "b) unless", "c) because", "d) but"],
+            "answer": "b) unless"
+        },
+        {
+            "sentence": "Mark forgot his umbrella at home, _____ he got completely soaked in the rain.",
+            "options": ["a) if", "b) but", "c) because", "d) so"],
+            "answer": "b) but"
+        },
+        {
+            "sentence": "Would you talk about the last homework _____ discuss the next exam in our next meeting?",
+            "options": ["a) or", "b) so", "c) yet", "d) and"],
+            "answer": "d) and"
+        },
+        {
+            "sentence": "John wanted to go to the concert; _______, he couldn’t get a ticket.",
+            "options": ["a) but", "b) although", "c) however", "d) and"],
+            "answer": "a) but"
+        },
+        {
+            "sentence": "__________ he was tired, he stayed up late to finish his project.",
+            "options": ["a) If", "b) Although", "c) Because", "d) However"],
+            "answer": "b) Although"
+        },
+        {
+            "sentence": "You can choose _____ chocolate cake _____ vanilla cake for dessert.",
+            "options": ["a) and – but", "b) either – or", "c) so – but", "d) neither – or"],
+            "answer": "b) either – or"
+        },
+        {
+            "sentence": "Nick will come to the party __________ he finishes his work.",
+            "options": ["a) so", "b) once", "c) because", "d) or"],
+            "answer": "c) because"
+        },
+        {
+            "sentence": "He didn’t go to the concert __________ he had already seen the band perform.",
+            "options": ["a) but", "b) unless", "c) because", "d) if"],
+            "answer": "a) but"
+        },
+        {
+            "sentence": "Jenny was shopping for groceries. _____, her husband was cooking dinner at home.",
+            "options": ["a) However", "b) Yet", "c) So", "d) Meanwhile"],
+            "answer": "d) Meanwhile"
+        },
+        {
+            "sentence": "I’m not eating dinner tonight. I’m not hungry because I had a big lunch. _____, I want to lose a bit of weight.",
+            "options": ["a) So", "b) However", "c) Besides", "d) Yet"],
+            "answer": "b) However"
+        },
+        {
+            "sentence": "Our family will go for a trip this summer __________ Jack finishes all of his exams.",
+            "options": ["a) because", "b) when", "c) but", "d) so"],
+            "answer": "b) when"
+        },
+        {
+            "sentence": "She neither enjoys swimming __________ hiking. She is not a very active person.",
+            "options": ["a) but", "b) nor", "c) or", "d) and"],
+            "answer": "b) nor"
+        },
+        {
+            "sentence": "He was late for the meeting ________ there was heavy traffic.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "They wanted to go to the beach, ________ it started raining.",
+            "options": ["a) and", "b) so", "c) but", "d) because"],
+            "answer": "c) but"
+        },
+        {
+            "sentence": "She had to leave early ________ her son's soccer game.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "I wanted to go to the party, ________ I was feeling unwell.",
+            "options": ["a) so", "b) but", "c) and", "d) because"],
+            "answer": "d) because"
+        },
+        {
+            "sentence": "They couldn't go on the trip ________ they couldn't get time off work.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "He took an umbrella ________ it was raining outside.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "d) but"
+        },
+        {
+            "sentence": "I'm going to the store ________ I need to buy some groceries.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "She was tired ________ she had been working all day.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "They went to the park ________ it was a beautiful day.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "I can't go to the party ________ I have a prior commitment.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "She had to stay late at work ________ she had a deadline to meet.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "d) but"
+        },
+        {
+            "sentence": "I wanted to go for a run, ________ it started raining.",
+            "options": ["a) so", "b) but", "c) and", "d) because"],
+            "answer": "d) because"
+        },
+        {
+            "sentence": "They missed the bus ________ they were running late.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "He couldn't find his keys ________ he was in a hurry.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "She brought an umbrella ________ it was a cloudy day.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "a) so"
+        },
+        {
+            "sentence": "I bought a cake ________ it's my birthday.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "He wore a coat ________ it was cold outside.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "She stayed up late ________ she was studying for an exam.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "They couldn't go on the trip ________ they had no money.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "I'm taking a jacket ________ it might get chilly in the evening.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "a) so"
+        },
+        {
+            "sentence": "She couldn't go to the concert _____ she had a prior commitment.",
+            "options": ["a) but", "b) because", "c) so", "d) and"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "They wanted to go hiking, _____ it started raining.",
+            "options": ["a) but", "b) so", "c) and", "d) because"],
+            "answer": "a) but"
+        },
+        {
+            "sentence": "I'll have to leave early _____ I have a meeting in the morning.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "We went to the beach _____ it was a sunny day.",
+            "options": ["a) because", "b) but", "c) and", "d) so"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "He didn't go to the party _____ he wasn't feeling well.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "d) but"
+        },
+        {
+            "sentence": "I wanted to visit the museum, _____ it was closed for renovations.",
+            "options": ["a) so", "b) but", "c) and", "d) because"],
+            "answer": "d) because"
+        },
+        {
+            "sentence": "We can have a picnic in the park _____ it's a beautiful day.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "I couldn't find my keys _____ I was running late.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "a) because"
+        },
+        {
+            "sentence": "They missed the bus _____ they left home too late.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "a) because"
+        },
+        {
+            "sentence": "He wore a hat _____ it was sunny outside.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "c) so"
+        },
+        {
+            "sentence": "I'm going to the gym _____ I want to stay healthy.",
+            "options": ["a) because", "b) but", "c) and", "d) so"],
+            "answer": "d) so"
+        },
+        {
+            "sentence": "They couldn't go on vacation _____ they couldn't get time off work.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "a) because"
+        },
+        {
+            "sentence": "I'm taking my umbrella _____ it might rain later.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "a) so"
+        },
+        {
+            "sentence": "He wore a tie to the party _____ he wanted to look formal.",
+            "options": ["a) so", "b) because", "c) but", "d) and"],
+            "answer": "d) and"
+        },
+        {
+            "sentence": "She couldn't sleep well _____ it was too noisy outside.",
+            "options": ["a) but", "b) because", "c) so", "d) and"],
+            "answer": "b) because"
+        },
+        {
+            "sentence": "They went for a walk in the park _____ it was a sunny day.",
+            "options": ["a) because", "b) but", "c) and", "d) so"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "I didn't go to the party _____ I wasn't invited.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "b) but"
+        },
+        {
+            "sentence": "We couldn't go to the beach _____ the weather was stormy.",
+            "options": ["a) but", "b) because", "c) so", "d) and"],
+            "answer": "a) but"
+        },
+        {
+            "sentence": "He stayed at work late _____ he had a deadline to meet.",
+            "options": ["a) because", "b) but", "c) so", "d) and"],
+            "answer": "a) because"
+        },
+        {
+            "sentence": "We're going to the movies _____ we want to see the latest film.",
+            "options": ["a) so", "b) because", "c) and", "d) but"],
+            "answer": "c) and"
+        },
+        {
+            "sentence": "_____ Peter nor I was able to drive home.",
+            "options": ["A) Either", "B) Not only", "C) Nor", "D) Neither"],
+            "answer": "D) Neither"
+        },
+        {
+            "sentence": "Jack is not only a good student _____ a fine athlete.",
+            "options": ["A) rather than", "B) as well as", "C) but also", "D) in addition"],
+            "answer": "C) but also"
+        },
+        {
+            "sentence": "Not only did he call on time, _____ he also left an important message.",
+            "options": ["A) therefore", "B) however", "C) but", "D) and"],
+            "answer": "D) and"
+        },
+        {
+            "sentence": "Neither Colin nor Digby ______ there.",
+            "options": ["A) are", "B) isn’t", "C) wasn’t", "D) was"],
+            "answer": "D) was"
+        },
+        {
+            "sentence": "Either your brakes or your eyesight ______ at fault.",
+            "options": ["A) is", "B) are", "C) were", "D) aren’t"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either David or his parents ______ at home.",
+            "options": ["A) is", "B) are", "C) was", "D) aren’t"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Neither your parents nor I ___ very glad of the fact that you failed your Math exam.",
+            "options": ["A) has been", "B) have been", "C) were", "D) was"],
+            "answer": "D) was"
+        },
+        {
+            "sentence": "Either Sarah or her friends ________ going to the concert tonight.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the teacher nor the students ________ happy about the test results.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either my mom or my dad ________ making dinner tonight.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the cat nor the dog ________ allowed on the couch.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the book or the magazines ________ on the shelf.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the red car nor the blue car ________ available for rent.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the chocolate cake or the vanilla cake ________ delicious.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the boys nor the girls ________ interested in playing soccer.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the green shirt or the blue shirt ________ fine with the outfit.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the cat nor the dog ________ fond of water.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the movie or the play ________ the highlight of the evening.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the black shoes nor the brown shoes ________ comfortable.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the laptop or the tablet ________ suitable for work.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the coffee nor the tea ________ to my liking.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the beach or the mountains ________ a great vacation destination.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either my brother or his friends ________ going to the party.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the teacher nor the principal ________ aware of the situation.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the red pen or the blue pen ________ on the desk.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the cat nor the dog ________ allowed in the kitchen.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the book or the magazines ________ on the shelf.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the black car nor the white car ________ available for rent.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the chocolate cake or the vanilla cake ________ delicious.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the boys nor the girls ________ interested in playing soccer.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the laptop or the tablet ________ suitable for work.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the coffee nor the tea ________ my preferred choice.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the beach or the mountains ________ a great vacation destination.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the red shoes nor the blue shoes ________ comfortable.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the car or the bike ________ a good mode of transportation.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the cat nor the dog ________ in the mood to play.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the sun or the moon ________ visible in the sky.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither my sister nor her friends ________ going to the concert tonight.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the teacher or the students ________ aware of the test results.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the red book nor the blue book ________ on the shelf.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the cat or the dog ________ allowed in the living room.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the movie nor the play ________ scheduled for today.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "C) was"
+        },
+        {
+            "sentence": "Either the black car or the white car ________ available for purchase.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the coffee nor the tea ________ my beverage of choice.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the laptop or the desktop computer ________ suitable for the task.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the boys nor the girls ________ willing to participate in the game.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the sun or the moon ________ visible in the sky tonight.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the red shoes nor the blue shoes ________ comfortable to wear.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "B) are"
+        },
+        {
+            "sentence": "Either the cat or the dog ________ hungry and wants to be fed.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the car nor the bicycle ________ suitable for long-distance travel.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Either the guitar or the piano ________ a musical instrument.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "Neither the red pen nor the blue pen ________ working properly.",
+            "options": ["A) is", "B) are", "C) was", "D) were"],
+            "answer": "A) is"
+        },
+        {
+            "sentence": "I’ll leave him a note ____ he’ll know where we are.",
+            "options": ["A) so that", "B) that", "C) in order that", "D) for"],
+            "answer": "A) so that"
+        },
+        {
+            "sentence": "____ he does his work, I don’t mind what time he arrives at the office.",
+            "options": ["A) As long as", "B) As", "C) Unless", "D) So"],
+            "answer": "A) As long as"
+        },
+        {
+            "sentence": "I’ll never speak to her______ I live.",
+            "options": ["A) as long as", "B) until", "C) whenever", "D) whereas"],
+            "answer": "B) until"
+        },
+        {
+            "sentence": "I’ve written it down for her, _______ she forgets it.",
+            "options": ["A) so as to", "B) therefore", "C) in case", "D) in order to"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I had to work until midnight _______ I was very tired.",
+            "options": ["A) although", "B) so that", "C) in case", "D) provided that"],
+            "answer": "A) although"
+        },
+        {
+            "sentence": "She doesn’t mind working overtime _______ she’s paid for it.",
+            "options": ["A) provided that", "B) so that", "C) as a result", "D) in case"],
+            "answer": "A) provided that"
+        },
+        {
+            "sentence": "I’ll give you my telephone number _______ you want to get in touch with me again.",
+            "options": ["A) although", "B) in case", "C) so that", "D) as if"],
+            "answer": "B) in case"
+        },
+        {
+            "sentence": "_____ I’m having my hair cut, you can do the shopping.",
+            "options": ["A) When", "B) While", "C) As soon as", "D) If"],
+            "answer": "B) While"
+        },
+        {
+            "sentence": "He'll take an umbrella _____ it rains.",
+            "options": ["A) unless", "B) so that", "C) in case", "D) in order to"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "You can borrow my car _____ you promise to be careful.",
+            "options": ["A) as soon as", "B) providing that", "C) because", "D) until"],
+            "answer": "B) providing that"
+        },
+        {
+            "sentence": "I'll be there _____ the meeting starts.",
+            "options": ["A) unless", "B) whenever", "C) as long as", "D) before"],
+            "answer": "D) before"
+        },
+        {
+            "sentence": "We should buy some snacks _____ we get hungry on the road.",
+            "options": ["A) so that", "B) whenever", "C) unless", "D) as long as"],
+            "answer": "A) so that"
+        },
+        {
+            "sentence": "I'll call you _____ I arrive at the airport.",
+            "options": ["A) before", "B) unless", "C) as soon as", "D) because"],
+            "answer": "C) as soon as"
+        },
+        {
+            "sentence": "Please water the plants _____ I'm away.",
+            "options": ["A) if", "B) as soon as", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll go to the store _____ we need more groceries.",
+            "options": ["A) unless", "B) so that", "C) as soon as", "D) if"],
+            "answer": "D) if"
+        },
+        {
+            "sentence": "_____ you finish your homework, you can watch TV.",
+            "options": ["A) So that", "B) As soon as", "C) In case", "D) Before"],
+            "answer": "B) As soon as"
+        },
+        {
+            "sentence": "She won't eat dinner _____ she's very hungry.",
+            "options": ["A) before", "B) providing that", "C) so that", "D) unless"],
+            "answer": "D) unless"
+        },
+        {
+            "sentence": "I'll buy a cake _____ it's your birthday.",
+            "options": ["A) as soon as", "B) if", "C) before", "D) unless"],
+            "answer": "B) if"
+        },
+        {
+            "sentence": "He'll finish the project _____ the deadline.",
+            "options": ["A) if", "B) as soon as", "C) despite", "D) unless"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "We'll go for a walk _____ the weather is nice.",
+            "options": ["A) so that", "B) if", "C) despite", "D) in case"],
+            "answer": "B) if"
+        },
+        {
+            "sentence": "She'll study _____ she has an exam.",
+            "options": ["A) before", "B) providing that", "C) in case", "D) unless"],
+            "answer": "A) before"
+        },
+        {
+            "sentence": "He'll wear a jacket _____ it's cold outside.",
+            "options": ["A) if", "B) before", "C) unless", "D) despite"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "I'll bring an umbrella _____ it rains.",
+            "options": ["A) in case", "B) as soon as", "C) before", "D) despite"],
+            "answer": "A) in case"
+        },
+        {
+            "sentence": "I'll call you ______ I reach the office.",
+            "options": ["A) before", "B) as soon as", "C) unless", "D) despite"],
+            "answer": "B) as soon as"
+        },
+        {
+            "sentence": "He won't go to the party ______ he's invited.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "B) unless"
+        },
+        {
+            "sentence": "She'll take an umbrella ______ it rains.",
+            "options": ["A) if", "B) before", "C) despite", "D) as soon as"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "I'll study all night ______ I pass the exam.",
+            "options": ["A) as soon as", "B) before", "C) in case", "D) despite"],
+            "answer": "A) as soon as"
+        },
+        {
+            "sentence": "I'll eat dinner ______ I get hungry.",
+            "options": ["A) before", "B) if", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "We'll leave early ______ we avoid the traffic.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll go for a walk ______ the weather is nice.",
+            "options": ["A) as soon as", "B) unless", "C) in case", "D) despite"],
+            "answer": "A) as soon as"
+        },
+        {
+            "sentence": "He'll cook dinner ______ I'm at work.",
+            "options": ["A) as soon as", "B) before", "C) unless", "D) despite"],
+            "answer": "B) before"
+        },
+        {
+            "sentence": "She'll bring her laptop ______ she needs to work.",
+            "options": ["A) if", "B) before", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "He won't watch the movie ______ it's interesting.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "B) unless"
+        },
+        {
+            "sentence": "We'll go to the park ______ the weather is good.",
+            "options": ["A) before", "B) if", "C) in case", "D) despite"],
+            "answer": "B) if"
+        },
+        {
+            "sentence": "She'll bake a cake ______ it's a special occasion.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "A) before"
+        },
+        {
+            "sentence": "He'll take his umbrella ______ it's cloudy.",
+            "options": ["A) if", "B) before", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll wear a jacket ______ it's cold outside.",
+            "options": ["A) if", "B) before", "C) unless", "D) despite"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "I'll bring a book ______ I have to wait.",
+            "options": ["A) as soon as", "B) unless", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll call you ______ I reach the office.",
+            "options": ["A) before", "B) as soon as", "C) unless", "D) despite"],
+            "answer": "B) as soon as"
+        },
+        {
+            "sentence": "He won't go to the party ______ he's invited.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "B) unless"
+        },
+        {
+            "sentence": "She'll take an umbrella ______ it rains.",
+            "options": ["A) if", "B) before", "C) despite", "D) as soon as"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "I'll study all night ______ I pass the exam.",
+            "options": ["A) as soon as", "B) before", "C) in case", "D) despite"],
+            "answer": "A) as soon as"
+        },
+        {
+            "sentence": "I'll eat dinner ______ I get hungry.",
+            "options": ["A) before", "B) if", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "We'll leave early ______ we avoid the traffic.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll go for a walk ______ the weather is nice.",
+            "options": ["A) as soon as", "B) unless", "C) in case", "D) despite"],
+            "answer": "A) as soon as"
+        },
+        {
+            "sentence": "He'll cook dinner ______ I'm at work.",
+            "options": ["A) as soon as", "B) before", "C) unless", "D) despite"],
+            "answer": "B) before"
+        },
+        {
+            "sentence": "She'll bring her laptop ______ she needs to work.",
+            "options": ["A) if", "B) before", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "He won't watch the movie ______ it's interesting.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "B) unless"
+        },
+        {
+            "sentence": "We'll go to the park ______ the weather is good.",
+            "options": ["A) before", "B) if", "C) in case", "D) despite"],
+            "answer": "B) if"
+        },
+        {
+            "sentence": "She'll bake a cake ______ it's a special occasion.",
+            "options": ["A) before", "B) unless", "C) in case", "D) despite"],
+            "answer": "A) before"
+        },
+        {
+            "sentence": "He'll take his umbrella ______ it's cloudy.",
+            "options": ["A) if", "B) before", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        },
+        {
+            "sentence": "I'll wear a jacket ______ it's cold outside.",
+            "options": ["A) if", "B) before", "C) unless", "D) despite"],
+            "answer": "A) if"
+        },
+        {
+            "sentence": "I'll bring a book ______ I have to wait.",
+            "options": ["A) as soon as", "B) unless", "C) in case", "D) despite"],
+            "answer": "C) in case"
+        }
+    ]
+}

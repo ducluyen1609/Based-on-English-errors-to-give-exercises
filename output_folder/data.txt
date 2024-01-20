@@ -1,0 +1,4 @@
+Lỗi ngữ pháp,Sai ở thì nào,Số lần mắc lỗi
+sai danh từ số ít-số nhiều,tất cả,15
+sai trật tự từ,tất cả,15
+sai cấu trúc ngữ pháp,simple future,20
